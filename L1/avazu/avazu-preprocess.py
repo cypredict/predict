@@ -9,18 +9,12 @@ import random
 import pickle  # 存储临时变量
 
 ## 读文件
-file_path = 'avazu/'
+file_path = '/home/admin/jupyter/avazu/'
 train_file = file_path + 'train_sample.csv'
 test_file  = file_path + 'test_sample.csv'
 
 ## 下采样写文件
-#fp_sub_train_f = file_path + 'sub_train_f.csv'
 col_counts_file = file_path + 'col_counts'
-
-## data after selecting features (LR_fun needed)
-## and setting rare categories' value to 'other' (feature filtering)
-#fp_train_f = file_path + 'train_f.csv'
-#fp_test_f  = file_path + 'test_f.csv'
 
 ## 存储标签编码和one-hot编码
 label_encoder_file = file_path + 'label_encoder'
@@ -100,8 +94,6 @@ pickle.dump(lb_enc, open(label_encoder_file, 'wb'))
 print(label_encoder_file + ' saved')
 ## one-hot编码
 oh_enc = OneHotEncoder(cols)
-#df_train_f = pd.read_csv(fp_train_f, index_col=None, chunksize=5000000, iterator=True)
-#df_test_f  = pd.read_csv(fp_test_f, index_col=None, chunksize=5000000, iterator=True)
 
 for chunk in df_train_org:
     oh_enc.fit(chunk)

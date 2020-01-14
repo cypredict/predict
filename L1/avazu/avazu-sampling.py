@@ -36,7 +36,7 @@ df_train_sample = pd.read_csv(train_file, nrows = 10)
 # sample前10000行数据
 df_train_org = pd.read_csv(train_file, nrows=10000)
 df_test_org  = pd.read_csv(test_file, nrows=10000)
-df_train_org.to_csv('train_sample.csv')
-df_test_org.to_csv('test_sample.csv')
+df_train_org.to_csv('avazu/train_sample.csv', index=False)
+df_test_org.to_csv('avazu/test_sample.csv', index=False)
 print('sample saved')
 
