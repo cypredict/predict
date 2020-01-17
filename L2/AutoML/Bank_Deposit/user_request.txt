@@ -1,0 +1,14 @@
+{
+	"data":{
+		"count": 1,
+		"req_data": [
+		{
+			"attr_1": "18",
+			"attr_2": "management",
+			"attr_3": "married",
+			"attr_4": "tertiary",
+			"attr_5": "yes",
+			"attr_6": "no"
+		}]
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"data":{
+		"count": 1,
+		"req_data": [
+		{
+			"attr_1": "36",
+			"attr_3": "Non-Travel",
+			"attr_4": "635",
+			"attr_5": "Sales",
+			"attr_6": "10", 
+			"attr_7": "4",
+			"attr_8": "Medical",
+			"attr_9": "1",
+			"attr_10": "592",
+			"attr_11": "2", 
+			"attr_12": "2",
+			"attr_13": "32",
+			"attr_14": "3",
+			"attr_15": "3",
+			"attr_16": "Sales Executive", 
+			"attr_17": "4",
+			"attr_18": "Single",
+			"attr_19": "9980",
+			"attr_20": "15318", 
+			"attr_21": "1",
+			"attr_22": "Y",
+			"attr_23": "No",
+			"attr_24": "14",
+			"attr_25": "3",  
+			"attr_26": "4",
+			"attr_27": "80",
+			"attr_28": "0",
+			"attr_29": "10",
+			"attr_30": "3",
+			"attr_31": "2",
+			"attr_32": "10",
+			"attr_33": "3",
+			"attr_34": "9",
+			"attr_35": "7"
+		}]
+	}
+}
+
+
+{
+	"data":{
+		"count": 1,
+		"req_data": [
+		{
+			"attr_1": "18",
+			"attr_2": "management",
+			"attr_3": "married",
+			"attr_4": "tertiary",
+			"attr_5": "yes",
+			"attr_6": "no"
+		}]
+	}
+}
