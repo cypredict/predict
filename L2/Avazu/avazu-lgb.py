@@ -27,10 +27,6 @@ print(cates)
 clf.fit(train.drop('click', axis=1), train['click'], categorical_feature=cates, verbose=5)
 predict = clf.predict_proba(test.drop('click', axis=1))[:, 1]
 
-# 定义二分类交叉熵
-def celoss(target, predict):
-    target = np.array(target)
-    predict = np.array(predict)
-    return -(target * np.log(predict) + (1 - target) * np.log(1 - predict)).mean()
-
-print(celoss(test['click'], predict))
+# 打印二分类交叉熵
+from sklearn.metrics import log_loss
+print(log_loss(test['click'], predict))

@@ -40,10 +40,6 @@ print('cates=', cates)
 
 predict = model.predict(test_data)
 
-# 定义二分类交叉熵
-def celoss(target, predict):
-    target = np.array(target)
-    predict = np.array(predict)
-    return -(target * np.log(predict) + (1 - target) * np.log(1 - predict)).mean()
-
-print(celoss(test['click'], predict))
+# 打印二分类交叉熵
+from sklearn.metrics import log_loss
+print(log_loss(test['click'], predict))
