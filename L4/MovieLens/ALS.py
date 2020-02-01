@@ -243,13 +243,18 @@ class ALS(object):
 
 
     def _process_data(self, X):
+        """ 将评分矩阵X转化为稀疏矩阵
+            输入参数X:
+                X {list} -- 2d list with int or float(user_id, item_id, rating)
+            输出结果:
+                dict -- {user_id: {item_id: rating}}
+                dict -- {item_id: {user_id: rating}}
+        """        
         self.user_ids = tuple((set(map(lambda x: x[0], X))))
-        self.user_ids_dict = dict(map(lambda x: x[::-1],
-                                        enumerate(self.user_ids)))
+        self.user_ids_dict = dict(map(lambda x: x[::-1], enumerate(self.user_ids)))
      
         self.item_ids = tuple((set(map(lambda x: x[1], X))))
-        self.item_ids_dict = dict(map(lambda x: x[::-1],
-                                        enumerate(self.item_ids)))
+        self.item_ids_dict = dict(map(lambda x: x[::-1], enumerate(self.item_ids)))
      
         self.shape = (len(self.user_ids), len(self.item_ids))
      
@@ -260,17 +265,24 @@ class ALS(object):
             ratings[user_id][item_id] = rating
             ratings_T[item_id][user_id] = rating
      
-        err_msg = "Length of user_ids %d and ratings %d not match!" % (
-            len(self.user_ids), len(ratings))
+        err_msg = "Length of user_ids %d and ratings %d not match!" % (len(self.user_ids), len(ratings))
         assert len(self.user_ids) == len(ratings), err_msg
      
-        err_msg = "Length of item_ids %d and ratings_T %d not match!" % (
-            len(self.item_ids), len(ratings_T))
+        err_msg = "Length of item_ids %d and ratings_T %d not match!" % (len(self.item_ids), len(ratings_T))
         assert len(self.item_ids) == len(ratings_T), err_msg
         return ratings, ratings_T
 
-    def _users_mul_ratings(self, users, ratings_T):
      
+    def _users_mul_ratings(self, users, ratings_T):
+        """ 用户矩阵(稠密) 与 评分矩阵（稀疏）相乘
+            The result(items) is a k * n matrix, n stands for number of item_ids.
+            Arguments:
+                users {Matrix} -- k * m matrix, m stands for number of user_ids.
+                ratings_T {dict} -- The items ratings by users.
+                {item_id: {user_id: rating}}
+            Returns:
+                Matrix -- Item matrix.
+        """
         def f(users_row, item_id):
             user_ids = iter(ratings_T[item_id].keys())
             scores = iter(ratings_T[item_id].values())
@@ -278,13 +290,19 @@ class ALS(object):
             _users_row = map(lambda x: users_row[x], col_nos)
             return sum(a * b for a, b in zip(_users_row, scores))
      
-        ret = [[f(users_row, item_id) for item_id in self.item_ids]
-                for users_row in users.data]
+        ret = [[f(users_row, item_id) for item_id in self.item_ids] for users_row in users.data]
         return Matrix(ret)
 
-
     def _items_mul_ratings(self, items, ratings):
-     
+        """ item矩阵（稠密）与评分矩阵（稀疏）相乘
+        The result(users) is a k * m matrix, m stands for number of user_ids.
+        Arguments:
+            items {Matrix} -- k * n matrix, n stands for number of item_ids.
+            ratings {dict} -- The items ratings by users.
+            {user_id: {item_id: rating}}
+        Returns:
+            Matrix -- User matrix.
+        """
         def f(items_row, user_id):
             item_ids = iter(ratings[user_id].keys())
             scores = iter(ratings[user_id].values())
@@ -292,8 +310,7 @@ class ALS(object):
             _items_row = map(lambda x: items_row[x], col_nos)
             return sum(a * b for a, b in zip(_items_row, scores))
      
-        ret = [[f(items_row, user_id) for user_id in self.user_ids]
-                for items_row in items.data]
+        ret = [[f(items_row, user_id) for user_id in self.user_ids] for items_row in items.data]
         return Matrix(ret)
 
     # 生成随机矩阵
@@ -352,7 +369,7 @@ class ALS(object):
      
         self.rmse = rmse
 
-    # 预测一个用户
+    # Top-n推荐，用户列表：user_id, n_items: Top-n
     def _predict(self, user_id, n_items):
         users_col = self.user_matrix.col(self.user_ids_dict[user_id])
         users_col = users_col.transpose
@@ -371,15 +388,8 @@ class ALS(object):
 def format_prediction(item_id, score):
     return "item_id:%d score:%.2f" % (item_id, score)
 
-def load_movie_ratings():
-    """Load movie ratings data for recommedation.
-    Returns:
-        list -- userId, movieId, rating
-    """
-    file_name = "movie_ratings"
-    #path = os.path.join('./', "dataset", "%s.csv" % file_name)
-    path = './ratings.csv'
-    f = open(path)
+def load_movie_ratings(file_name):
+    f = open(file_name)
     lines = iter(f)
     col_names = ", ".join(next(lines)[:-1].split(",")[:-1])
     print("The column names are: %s." % col_names)
@@ -390,16 +400,27 @@ def load_movie_ratings():
 
     return data
 
-
 print("使用ALS算法") 
-X = load_movie_ratings()
 model = ALS()
-model.fit(X, k=3, max_iter=3)
+# 数据加载
+X = load_movie_ratings('./ratings_small.csv')
+# 运行max_iter次
+model.fit(X, k=3, max_iter=2)
+"""
+X = np.array([[1,1,1], [1,2,1], [2,1,1], [2,3,1], [3,2,1], [3,3,1], [4,1,1], [4,2,1],
+              [5,4,1], [5,5,1], [6,4,1], [6,6,1], [7,5,1], [7,6,1], [8,4,1], [8,5,1], [9,4,1], [9,5,1],
+              [10,7,1], [10,8,1], [11,8,1], [11,9,1], [12,7,1], [12,9,1]])
+# 运行max_iter次
+model.fit(X, k=3, max_iter=20)
+"""
 
 print("对用户进行推荐")
-user_ids = range(1, 5)
+user_ids = range(1, 13)
+# 对用户列表user_ids，进行Top-n推荐
 predictions = model.predict(user_ids, n_items=2)
+print(predictions)
 for user_id, prediction in zip(user_ids, predictions):
-    _prediction = [format_prediction(item_id, score)
-                   for item_id, score in prediction]
+    _prediction = [format_prediction(item_id, score) for item_id, score in prediction]
     print("User id:%d recommedation: %s" % (user_id, _prediction))
+
+
