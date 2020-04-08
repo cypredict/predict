@@ -1,0 +1,3745 @@
+source	target	depth
+life insurance	corporate-owned life insurance	1
+life insurance	critical illness insurance	1
+life insurance	economic capital	1
+life insurance	estate planning	1
+life insurance	false insurance claims	1
+life insurance	general insurance	1
+life insurance	internal revenue code section 79	1
+life insurance	life expectancy	1
+life insurance	pet insurance	1
+life insurance	retirement plan	1
+life insurance	return of premium life insurance	1
+life insurance	segregated fund	1
+life insurance	servicemembers' group life insurance	1
+life insurance	term life insurance	1
+life insurance	tontine	1
+segregated fund	life insurance	2
+segregated fund	universal life insurance	2
+segregated fund	variable universal life insurance	2
+segregated fund	unitised insurance fund	2
+term life insurance	family income benefit insurance	2
+term life insurance	life insurance	2
+term life insurance	permanent life insurance	2
+term life insurance	theory of decreasing responsibility	2
+term life insurance	universal life insurance	2
+term life insurance	variable universal life insurance	2
+term life insurance	whole life insurance	2
+term life insurance	internal revenue code section 79	2
+retirement plan	elderly care	2
+retirement plan	financial advisor	2
+retirement plan	fee-only financial advisor	2
+retirement plan	generational accounting	2
+retirement plan	pension led funding	2
+retirement plan	pension model	2
+retirement plan	pensions crisis	2
+retirement plan	public debt	2
+retirement plan	retirement	2
+retirement plan	retirement age	2
+retirement plan	retirement planning	2
+retirement plan	social pension	2
+retirement plan	ham and eggs movement	2
+retirement plan	individual pension plan	2
+retirement plan	pension rights center	2
+retirement plan	roth 401(k)	2
+retirement plan	universities superannuation scheme	2
+life expectancy	depreciation	2
+life expectancy	biodemography	2
+life expectancy	calorie restriction	2
+life expectancy	demography	2
+life expectancy	dna damage theory of aging	2
+life expectancy	glasgow effect	2
+life expectancy	healthcare inequality	2
+life expectancy	indefinite lifespan	2
+life expectancy	life table	2
+life expectancy	maximum life span	2
+life expectancy	medieval demography	2
+life expectancy	mitohormesis	2
+life expectancy	mortality rate	2
+life expectancy	population pyramid	2
+life expectancy	senescence	2
+life expectancy	lindy effect	2
+life expectancy	strategies for engineered negligible senescence	2
+life expectancy	john sperling	2
+life expectancy	life extension	2
+life expectancy	longevity	2
+life expectancy	rejuvenation (aging)	2
+life expectancy	public health	2
+life expectancy	infant mortality	2
+pet insurance	anicom	2
+unitised insurance fund	unit linked insurance plan	3
+roth 401(k)	401(k)	3
+roth 401(k)	comparison of 401(k) and ira accounts	3
+roth 401(k)	403(b)	3
+roth 401(k)	form 1099-r	3
+roth 401(k)	individual retirement account	3
+roth 401(k)	internal revenue service	3
+roth 401(k)	rollovers as business start-ups	3
+roth 401(k)	self-directed ira	3
+universities superannuation scheme	uk pensions	3
+universities superannuation scheme	uk labour law	3
+infant mortality	miscarriage	3
+infant mortality	stillbirth	3
+infant mortality	perinatal mortality	3
+infant mortality	child mortality	3
+self-directed ira	403(b)	4
+self-directed ira	comparison of 401(k) and ira accounts	4
+self-directed ira	roth 401(k)	4
+self-directed ira	rollovers as business start-ups	4
+self-directed ira	self-invested personal pension	4
+uk pensions	association of pension lawyers	4
+uk pensions	pensions in germany	4
+uk pensions	pensions in the united states	4
+uk pensions	ageing of europe	4
+uk pensions	pension tax simplification	4
+uk pensions	minimum funding requirement	4
+uk pensions	frozen state pension	4
+uk pensions	superannuation in australia	4
+uk pensions	pensions in canada	4
+uk pensions	personal pension scheme	4
+uk pensions	widows orphans’ and old age contributory pensions act 1925	4
+uk pensions	national insurance act 1946	4
+uk pensions	national insurance act 1965	4
+uk pensions	social security contributions and benefits act 1992	4
+uk pensions	superannuation and other funds (validation) act 1992	4
+uk pensions	pension schemes act 1993	4
+uk pensions	pensions act 1995	4
+uk pensions	pensions act 2004	4
+uk pensions	pensions act 2007	4
+uk pensions	pensions act 2008	4
+uk pensions	smart pension	4
+uk pensions	national employment savings trust	4
+uk pensions	the people's pension	4
+perinatal mortality	neonatal intensive care unit	4
+perinatal mortality	maternal death	4
+perinatal mortality	neonaticide	4
+perinatal mortality	miscarriage	4
+perinatal mortality	pregnancy and infant loss remembrance day	4
+uk labour law	a manifesto for labour law	4
+uk labour law	european labour law	4
+uk labour law	us labor law	4
+uk labour law	social law	4
+stillbirth	coffin birth	4
+stillbirth	perinatal death	4
+stillbirth	smoking and pregnancy	4
+stillbirth	stillbirth and neonatal death society	4
+miscarriage	childbirth	4
+miscarriage	pregnancy and infant loss remembrance day	4
+individual retirement account	retirement plans in the united states	4
+individual retirement account	comparison of 401(k) and ira accounts	4
+individual retirement account	myra	4
+individual retirement account	401(k)	4
+individual retirement account	solo 401(k)	4
+individual retirement account	roth 401(k)	4
+individual retirement account	rollovers as business start-ups	4
+individual retirement account	gold ira	4
+rollovers as business start-ups	american association of franchisees and dealers	4
+rollovers as business start-ups	401(k)	4
+rollovers as business start-ups	401(k) ira matrix	4
+rollovers as business start-ups	roth 401(k)	4
+rollovers as business start-ups	403(b)	4
+rollovers as business start-ups	individual retirement account	4
+rollovers as business start-ups	internal revenue service	4
+internal revenue service	irs penalties	4
+internal revenue service	tax evasion in the united states	4
+form 1099-r	irs tax forms	4
+form 1099-r	taxation in the united states	4
+401(k)	superannuation in australia	4
+401(k)	pensioensparen	4
+401(k)	:pt:fundo de pensão	4
+401(k)	registered retirement savings plan	4
+401(k)	french special retirement plan	4
+401(k)	:de:betriebliche altersversorgung	4
+401(k)	public provident fund	4
+401(k)	kumpulan wang simpanan pekerja	4
+401(k)	retirement funds administrators	4
+401(k)	kiwisaver	4
+401(k)	social security system	4
+401(k)	central provident fund	4
+401(k)	financial services board (south africa)	4
+401(k)	:es:plan de pensiones	4
+401(k)	self-invested personal pension	4
+401(k)	comparison of 401(k) and ira accounts	4
+401(k)	403(b)	4
+401(k)	457 plan	4
+401(k)	self-directed ira	4
+401(k)	vivien v. worldcom	4
+401(k)	thrift savings plan	4
+401(k)	revenue act of 1978	4
+rejuvenation (aging)	ageless	3
+rejuvenation (aging)	aging brain	3
+rejuvenation (aging)	american academy of anti-aging medicine	3
+rejuvenation (aging)	gerontology	3
+rejuvenation (aging)	biological immortality	3
+rejuvenation (aging)	dna repair	3
+rejuvenation (aging)	dna damage theory of aging	3
+rejuvenation (aging)	eternal youth	3
+rejuvenation (aging)	facial rejuvenation	3
+rejuvenation (aging)	fountain of youth	3
+rejuvenation (aging)	hayflick	3
+rejuvenation (aging)	hayflick limit	3
+rejuvenation (aging)	immortality	3
+rejuvenation (aging)	indefinite lifespan	3
+rejuvenation (aging)	induced stem cells	3
+rejuvenation (aging)	life extension	3
+rejuvenation (aging)	maximum life span	3
+rejuvenation (aging)	nanomedicine	3
+rejuvenation (aging)	photorejuvenation	3
+rejuvenation (aging)	sage ke	3
+rejuvenation (aging)	senescence	3
+rejuvenation (aging)	shunamitism	3
+rejuvenation (aging)	telomere	3
+rejuvenation (aging)	telomerase	3
+rejuvenation (aging)	timeline of senescence research	3
+rejuvenation (aging)	tissue engineering	3
+rejuvenation (aging)	therapeutic cloning	3
+comparison of 401(k) and ira accounts	retirement plans in the united states	4
+comparison of 401(k) and ira accounts	individual retirement account	4
+403(b)	401(k)	4
+403(b)	401(a)	4
+403(b)	457 plan	4
+403(b)	form 1099-r	4
+403(b)	individual retirement account	4
+403(b)	taxation in the united states	4
+403(b)	thrift savings plan	4
+longevity	actuarial science	3
+longevity	aging	3
+longevity	aging brain	3
+longevity	alliance for aging research	3
+longevity	anti-aging movement	3
+longevity	biodemography	3
+longevity	biodemography of human longevity	3
+longevity	calico (company)	3
+longevity	centenarian	3
+longevity	dna damage theory of aging	3
+longevity	genetics of aging	3
+longevity	gerontology research group	3
+longevity	hayflick limit	3
+longevity	indefinite lifespan	3
+longevity	life extension	3
+longevity	longevity claims	3
+longevity	longevity myths	3
+longevity	maximum life span	3
+longevity	mitohormesis	3
+longevity	oldest viable seed	3
+longevity	reliability theory of aging and longevity	3
+longevity	research into centenarians	3
+longevity	senescence	3
+therapeutic cloning	cloning	4
+therapeutic cloning	embryogenesis	4
+therapeutic cloning	gábor vajta	4
+therapeutic cloning	in vitro fertilisation	4
+therapeutic cloning	induced stem cells	4
+therapeutic cloning	s1909/a2840	4
+therapeutic cloning	rejuvenation (aging)	4
+therapeutic cloning	stem cell controversy	4
+therapeutic cloning	stem cell research	4
+tissue engineering	biomedical engineering	4
+tissue engineering	biological engineering	4
+tissue engineering	biomolecular engineering	4
+tissue engineering	biochemical engineering	4
+tissue engineering	chemical engineering	4
+tissue engineering	ecm biomaterial	4
+tissue engineering	induced stem cells	4
+tissue engineering	molecular processor	4
+tissue engineering	molecular self-assembly	4
+tissue engineering	muscle tissue engineering	4
+tissue engineering	national institutes of health	4
+tissue engineering	national science foundation	4
+tissue engineering	quality control in tissue engineering	4
+tissue engineering	regeneration in humans	4
+tissue engineering	soft tissues	4
+tissue engineering	tissue engineering and regenerative medicine international society	4
+tissue engineering	xenotransplantation	4
+tissue engineering	tissue engineering of heart valves	4
+timeline of senescence research	timeline of alzheimer's disease	4
+telomerase	dna repair	4
+telomerase	imetelstat	4
+telomerase	ta-65	4
+telomerase	telomere	4
+senescence	ageing	4
+senescence	aging brain	4
+senescence	aging-associated diseases	4
+senescence	anti-aging movement	4
+senescence	dna repair	4
+senescence	radical (chemistry)	4
+senescence	genetics of aging	4
+senescence	geriatrics	4
+senescence	gerontology	4
+senescence	homeostatic capacity	4
+senescence	immortality	4
+senescence	life extension	4
+senescence	mitohormesis	4
+senescence	old age	4
+senescence	oxidative stress	4
+senescence	phenoptosis	4
+senescence	plant senescence	4
+senescence	programmed cell death	4
+senescence	regenerative medicine	4
+senescence	rejuvenation	4
+senescence	sage ke	4
+senescence	stem cell theory of aging	4
+senescence	strategies for engineered negligible senescence	4
+senescence	sub-lethal damage	4
+senescence	timeline of senescence research	4
+senescence	transgenerational design	4
+research into centenarians	centenarian	4
+research into centenarians	food preferences in older adults and seniors	4
+research into centenarians	new england centenarian study	4
+research into centenarians	okinawa centenarian study	4
+reliability theory of aging and longevity	dna damage theory of aging	4
+oldest viable seed	longevity	4
+oldest viable seed	orthodox seed	4
+oldest viable seed	seedbank	4
+mitohormesis	calorie restriction	4
+mitohormesis	michael ristow	4
+mitohormesis	petkau effect	4
+mitohormesis	radiation hormesis	4
+mitohormesis	stochastic resonance	4
+mitohormesis	arndt–schulz rule	4
+mitohormesis	mithridatism	4
+maximum life span	ageing	4
+maximum life span	aging brain	4
+maximum life span	american aging association	4
+maximum life span	aubrey de grey	4
+maximum life span	biodemography	4
+maximum life span	biological immortality	4
+maximum life span	calorie restriction	4
+maximum life span	compression of morbidity	4
+maximum life span	dna damage theory of aging	4
+maximum life span	extreme longevity tracking	4
+maximum life span	genetics of aging	4
+maximum life span	gerontology	4
+maximum life span	hayflick limit	4
+maximum life span	indefinite lifespan	4
+maximum life span	life expectancy	4
+maximum life span	life extension	4
+maximum life span	longevity	4
+maximum life span	methuselah mouse prize	4
+maximum life span	michael ristow	4
+maximum life span	mitohormesis	4
+maximum life span	oldest people	4
+maximum life span	senescence	4
+maximum life span	strategies for engineered negligible senescence	4
+longevity myths	ageing	4
+longevity myths	elixir of life	4
+longevity myths	genealogies of genesis	4
+longevity myths	genetics	4
+longevity myths	oldest people	4
+longevity myths	supercentenarian	4
+life extension	advanced glycation end product	4
+life extension	aging brain	4
+life extension	aging movement control	4
+life extension	alzheimer's disease	4
+life extension	anti-aging movement	4
+life extension	biological immortality	4
+life extension	centenarian	4
+life extension	clinical interventions in aging	4
+life extension	dementia	4
+life extension	dna damage theory of aging	4
+life extension	human enhancement	4
+life extension	immortality	4
+life extension	maximum lifespan	4
+life extension	rejuvenation research	4
+life extension	senescence	4
+life extension	slow aging	4
+life extension	supercentenarian	4
+life extension	timeline of senescence research	4
+life extension	transgenerational design	4
+hayflick limit	ageing	4
+hayflick limit	apoptosis	4
+hayflick limit	biological immortality	4
+hayflick limit	hela	4
+hayflick limit	induced stem cells	4
+gerontology research group	gerontology	4
+gerontology research group	longevity	4
+gerontology research group	longevity claims	4
+gerontology research group	longevity myths	4
+gerontology research group	new england centenarian study	4
+gerontology research group	oldest people	4
+indefinite lifespan	advanced glycation end product	4
+indefinite lifespan	aging brain	4
+indefinite lifespan	aging movement control	4
+indefinite lifespan	alzheimer's disease	4
+indefinite lifespan	anti-aging movement	4
+indefinite lifespan	biological immortality	4
+indefinite lifespan	centenarian	4
+indefinite lifespan	clinical interventions in aging	4
+indefinite lifespan	dementia	4
+indefinite lifespan	dna damage theory of aging	4
+indefinite lifespan	human enhancement	4
+indefinite lifespan	immortality	4
+indefinite lifespan	maximum lifespan	4
+indefinite lifespan	rejuvenation research	4
+indefinite lifespan	senescence	4
+indefinite lifespan	slow aging	4
+indefinite lifespan	supercentenarian	4
+indefinite lifespan	timeline of senescence research	4
+indefinite lifespan	transgenerational design	4
+genetics of aging	strategies for engineered negligible senescence	4
+dna damage theory of aging	aging brain	4
+dna damage theory of aging	biological immortality	4
+dna damage theory of aging	dna damage (naturally occurring)	4
+dna damage theory of aging	dna repair	4
+dna damage theory of aging	life expectancy	4
+dna damage theory of aging	longevity	4
+dna damage theory of aging	maximum life span	4
+dna damage theory of aging	rejuvenation	4
+dna damage theory of aging	senescence	4
+dna damage theory of aging	telomere	4
+centenarian	food choice of older adults	4
+centenarian	life extension	4
+centenarian	lists of centenarians	4
+centenarian	new england centenarian study	4
+centenarian	okinawa centenarian study	4
+centenarian	oldest people	4
+centenarian	queensland community care network	4
+calico (company)	verily	4
+calico (company)	human longevity	4
+biodemography of human longevity	demography	4
+biodemography of human longevity	biodemography	4
+biodemography of human longevity	longevity	4
+biodemography of human longevity	life extension	4
+biodemography of human longevity	reliability theory of aging and longevity	4
+biodemography	demography	4
+biodemography	biodemography of human longevity	4
+biodemography	epidemiology	4
+biodemography	max planck institute for demographic research	4
+biodemography	paleodemography	4
+biodemography	mortality displacement	4
+biodemography	society for biodemography and social biology	4
+anti-aging movement	death	4
+anti-aging movement	aging	4
+anti-aging movement	brian hanley (biohacker)	4
+anti-aging movement	senescence	4
+anti-aging movement	negligible senescence	4
+anti-aging movement	biological immortality	4
+anti-aging movement	immortality	4
+anti-aging movement	indefinite lifespan	4
+anti-aging movement	longevity	4
+anti-aging movement	transhumanism	4
+anti-aging movement	extropianism	4
+anti-aging movement	biogerontology	4
+anti-aging movement	life extension	4
+alliance for aging research	aging-associated diseases	4
+alliance for aging research	geriatrics	4
+alliance for aging research	research into centenarians	4
+aging brain	aging	4
+aging brain	aging movement control	4
+aging brain	alzheimer's disease	4
+aging brain	dementia	4
+aging brain	dna damage theory of aging	4
+aging brain	life extension	4
+aging brain	neuropsychological test	4
+aging brain	reliability theory of aging and longevity	4
+aging brain	senescence	4
+aging brain	sensory stimulation therapy	4
+aging brain	neuroscience of aging	4
+aging brain	software aging	4
+actuarial science	actuarial control cycle	4
+actuarial science	actuarial exam	4
+actuarial science	black swan theory	4
+actuarial science	data mining	4
+actuarial science	scenario optimization	4
+actuarial science	ruin theory	4
+aging	ageing brain	4
+aging	ageing movement control	4
+aging	ageing of europe	4
+aging	ageing studies	4
+aging	anti-ageing movement	4
+aging	biodemography of human longevity	4
+aging	biogerontology	4
+aging	biological immortality	4
+aging	biomarkers of ageing	4
+aging	clinical geropsychology	4
+aging	death	4
+aging	epigenetic clock	4
+aging	evolution of ageing	4
+aging	genetics of ageing	4
+aging	gerontology	4
+aging	gerascophobia	4
+aging	longevity	4
+aging	mitochondrial theory of ageing	4
+aging	neuroscience of ageing	4
+aging	old age	4
+aging	population ageing	4
+aging	progeria	4
+aging	stem cell theory of ageing	4
+aging	supercentenarian	4
+aging	transgenerational design	4
+telomere	biological clock (aging)	4
+telomere	epigenetic clock	4
+telomere	centromere	4
+telomere	dna damage theory of aging	4
+telomere	immortality	4
+telomere	maximum life span	4
+telomere	rejuvenation (aging)	4
+telomere	senescence	4
+sage ke	ageing	4
+sage ke	american aging association	4
+sage ke	gerontology	4
+sage ke	science (journal)	4
+sage ke	senescence	4
+photorejuvenation	laser surgery	4
+shunamitism	rejuvenation (aging)	4
+nanomedicine	british society for nanomedicine	4
+nanomedicine	colloidal gold	4
+nanomedicine	heart nanotechnology	4
+nanomedicine	ieee p1906.1	4
+nanomedicine	impalefection	4
+nanomedicine	monitoring (medicine)	4
+nanomedicine	nanobiotechnology	4
+nanomedicine	nanoparticle–biomolecule conjugate	4
+nanomedicine	nanozymes	4
+nanomedicine	nanotechnology in fiction	4
+nanomedicine	photodynamic therapy	4
+nanomedicine	top-down and bottom-up design	4
+induced stem cells	transdifferentiation	4
+induced stem cells	examples of in vitro transdifferentiation by lineage-instructive approach	4
+induced stem cells	examples of in vitro transdifferentiation by initial epigenetic activation phase approach	4
+induced stem cells	examples of in vivo transdifferentiation by lineage-instructive approach	4
+induced stem cells	injury induced stem cell niches	4
+induced stem cells	transcription factors	4
+induced stem cells	growth factor	4
+induced stem cells	pioneer factor	4
+induced stem cells	cellular differentiation	4
+induced stem cells	caf-1	4
+hayflick	web of stories	4
+hayflick	biogerontology	4
+hayflick	hayflick limit	4
+hayflick	senescence	4
+hayflick	tissue engineering	4
+immortality	ambrosia	4
+immortality	amrita	4
+immortality	bioethics	4
+immortality	biogerontology	4
+immortality	crown of immortality	4
+immortality	dyson's eternal intelligence	4
+immortality	eternal return	4
+immortality	eternal youth	4
+immortality	ghost	4
+immortality	immortal dna strand hypothesis	4
+immortality	immortalist society	4
+immortality	internal alchemy	4
+immortality	lich	4
+immortality	methuselah mouse prize	4
+immortality	molecular nanotechnology	4
+immortality	negligible senescence	4
+immortality	omega point (tipler)	4
+immortality	organlegging	4
+immortality	posthuman	4
+immortality	queen mother of the west	4
+immortality	simulated reality	4
+immortality	suspended animation	4
+immortality	nikola tesla	4
+immortality	undead	4
+immortality	regeneration (theology)	4
+facial rejuvenation	aesthetic medicine	4
+facial rejuvenation	cosmetic surgery	4
+facial rejuvenation	cosmetics	4
+facial rejuvenation	plastic surgery	4
+facial rejuvenation	rejuvenation (aging)	4
+facial rejuvenation	modiolus (face)	4
+dna repair	accelerated aging disease	4
+dna repair	aging dna	4
+dna repair	cell cycle	4
+dna repair	dna damage (naturally occurring)	4
+dna repair	dna damage theory of aging	4
+dna repair	dna replication	4
+dna repair	direct dna damage	4
+dna repair	gene therapy	4
+dna repair	human mitochondrial genetics	4
+dna repair	indirect dna damage	4
+dna repair	life extension	4
+dna repair	progeria	4
+dna repair	senescence	4
+dna repair	sidna	4
+dna repair	mutation research (journal)	4
+eternal youth	ageless	4
+eternal youth	dna damage theory of aging	4
+eternal youth	elixir of life	4
+eternal youth	fountain of youth	4
+eternal youth	indefinite lifespan	4
+eternal youth	immortality	4
+biological immortality	aging brain	4
+biological immortality	american academy of anti-aging medicine	4
+biological immortality	calico (company)	4
+biological immortality	cryptobiosis	4
+biological immortality	dna damage theory of aging	4
+biological immortality	maximum life span	4
+biological immortality	methuselah foundation	4
+biological immortality	reliability theory of aging and longevity	4
+biological immortality	rejuvenation (aging)	4
+biological immortality	strategies for engineered negligible senescence	4
+biological immortality	cancer cell	4
+biological immortality	timeline of senescence research	4
+gerontology	aging and memory	4
+gerontology	aging portfolio	4
+gerontology	biological clock (aging)	4
+gerontology	bionics	4
+gerontology	clinical geropsychology	4
+gerontology	elderly care	4
+gerontology	financial gerontology	4
+gerontology	life extension	4
+gerontology	old age	4
+gerontology	oldest people	4
+gerontology	silver alert	4
+gerontology	timeline of senescence research	4
+american academy of anti-aging medicine	maximum life span	4
+american academy of anti-aging medicine	apothécure inc.	4
+american academy of anti-aging medicine	strategic lawsuit against public participation	4
+ageless	androgyny	4
+ageless	indefinite lifespan	4
+ageless	life extension	4
+ageless	neoteny	4
+ageless	pedomorphosis	4
+ageless	rejuvenation (aging)	4
+ageless	werner syndrome	4
+ageless	neverland	4
+ageless	peter pan	4
+john sperling	biological immortality	3
+john sperling	life extension	3
+john sperling	longevity	3
+john sperling	futures studies	3
+slow aging	ageing brain	4
+slow aging	ageing movement control	4
+slow aging	ageing of europe	4
+slow aging	ageing studies	4
+slow aging	anti-ageing movement	4
+slow aging	biodemography of human longevity	4
+slow aging	biogerontology	4
+slow aging	biological immortality	4
+slow aging	biomarkers of ageing	4
+slow aging	clinical geropsychology	4
+slow aging	death	4
+slow aging	epigenetic clock	4
+slow aging	evolution of ageing	4
+slow aging	genetics of ageing	4
+slow aging	gerontology	4
+slow aging	gerascophobia	4
+slow aging	longevity	4
+slow aging	mitochondrial theory of ageing	4
+slow aging	neuroscience of ageing	4
+slow aging	old age	4
+slow aging	population ageing	4
+slow aging	progeria	4
+slow aging	stem cell theory of ageing	4
+slow aging	supercentenarian	4
+slow aging	transgenerational design	4
+rejuvenation research	strategies for engineered negligible senescence	4
+rejuvenation research	timeline of senescence research	4
+maximum lifespan	ageing	4
+maximum lifespan	aging brain	4
+maximum lifespan	american aging association	4
+maximum lifespan	aubrey de grey	4
+maximum lifespan	biodemography	4
+maximum lifespan	biological immortality	4
+maximum lifespan	calorie restriction	4
+maximum lifespan	compression of morbidity	4
+maximum lifespan	dna damage theory of aging	4
+maximum lifespan	extreme longevity tracking	4
+maximum lifespan	genetics of aging	4
+maximum lifespan	gerontology	4
+maximum lifespan	hayflick limit	4
+maximum lifespan	indefinite lifespan	4
+maximum lifespan	life expectancy	4
+maximum lifespan	life extension	4
+maximum lifespan	longevity	4
+maximum lifespan	methuselah mouse prize	4
+maximum lifespan	michael ristow	4
+maximum lifespan	mitohormesis	4
+maximum lifespan	oldest people	4
+maximum lifespan	senescence	4
+maximum lifespan	strategies for engineered negligible senescence	4
+human enhancement	anti-aging movement	4
+human enhancement	assisted reproductive technologies	4
+human enhancement	cloning	4
+human enhancement	directed evolution (transhumanism)	4
+human enhancement	evidence-based learning	4
+human enhancement	gene therapy	4
+human enhancement	genetic engineering	4
+human enhancement	grinder (biohacking)	4
+human enhancement	human-animal hybrid	4
+human enhancement	life extension	4
+human enhancement	posthuman	4
+human enhancement	posthumanization	4
+human enhancement	technological singularity	4
+human enhancement	transhumanism	4
+strategies for engineered negligible senescence	aging	3
+strategies for engineered negligible senescence	aging-associated diseases	3
+strategies for engineered negligible senescence	american academy of anti-aging medicine	3
+strategies for engineered negligible senescence	biological immortality	3
+strategies for engineered negligible senescence	dna damage theory of aging	3
+strategies for engineered negligible senescence	eternal youth	3
+strategies for engineered negligible senescence	genetics of aging	3
+strategies for engineered negligible senescence	geroprotector	3
+strategies for engineered negligible senescence	immortality	3
+strategies for engineered negligible senescence	indefinite lifespan	3
+strategies for engineered negligible senescence	longevity	3
+strategies for engineered negligible senescence	maximum life span	3
+strategies for engineered negligible senescence	protoscience	3
+strategies for engineered negligible senescence	rejuvenation research	3
+strategies for engineered negligible senescence	senolytics	3
+strategies for engineered negligible senescence	timeline of senescence research	3
+advanced glycation end product	glycosylation	4
+advanced glycation end product	glyoxalase system	4
+advanced glycation end product	methylglyoxal	4
+advanced glycation end product	raw foodism	4
+advanced glycation end product	n(6)-carboxymethyllysine	4
+lindy effect	ergodic theory	3
+lindy effect	german tank problem	3
+lindy effect	hofstadter's law	3
+lindy effect	law of large numbers	3
+lindy effect	natural selection	3
+lindy effect	ninety-ninety rule	3
+lindy effect	planning fallacy	3
+lindy effect	precautionary principle	3
+lindy effect	social darwinism	3
+lindy effect	survivorship curve	3
+lindy effect	survivorship bias	3
+lindy effect	doomsday argument	3
+sub-lethal damage	cellular adaptation	4
+doomsday argument	anthropic principle	4
+doomsday argument	doomsday event	4
+doomsday argument	fermi paradox	4
+doomsday argument	mediocrity principle	4
+doomsday argument	quantum immortality	4
+doomsday argument	sic transit gloria mundi	4
+doomsday argument	simulated reality	4
+doomsday argument	survival analysis	4
+doomsday argument	survivalism	4
+doomsday argument	technological singularity	4
+senolytics	autophagy	4
+senolytics	geroprotector	4
+senolytics	venetoclax	4
+senolytics	senotherapy	4
+survivorship bias	selection bias	4
+survivorship bias	anthropic principle	4
+survivorship bias	cherry picking	4
+survivorship bias	econometrics	4
+survivorship bias	fooled by randomness	4
+survivorship bias	meta-analysis	4
+survivorship bias	multiple comparisons problem	4
+survivorship bias	selection principle	4
+survivorship bias	texas sharpshooter fallacy	4
+survivorship bias	inspiration porn	4
+protoscience	history of science	4
+protoscience	hypothesis	4
+protoscience	methodical culturalism	4
+protoscience	natural philosophy	4
+protoscience	obsolete scientific theories	4
+protoscience	pathological science	4
+survivorship curve	actuarial science	4
+survivorship curve	life history theory	4
+survivorship curve	population ecology	4
+social darwinism	biodiversity	4
+social darwinism	cultural elitism	4
+social darwinism	cultural evolution	4
+social darwinism	cultural selection theory	4
+social darwinism	environmental racism	4
+social darwinism	hierarchy	4
+social darwinism	meritocracy	4
+social darwinism	scientific racism	4
+social darwinism	social ecology (theory)	4
+social darwinism	social implications of the theory of evolution	4
+social darwinism	social progress	4
+social darwinism	sociobiology	4
+social darwinism	evolutionary psychology	4
+social darwinism	supremacism	4
+social darwinism	titan (mythology)	4
+social darwinism	transhumanism	4
+social darwinism	universal darwinism	4
+ninety-ninety rule	hofstadter's law	4
+ninety-ninety rule	lindy effect	4
+ninety-ninety rule	pareto principle	4
+ninety-ninety rule	small matter of programming	4
+precautionary principle	argument from ignorance	4
+precautionary principle	wikt:benefit of the doubt	4
+precautionary principle	best available technology	4
+precautionary principle	biosecurity	4
+precautionary principle	centre for the study of existential risk	4
+precautionary principle	chesterton's fence	4
+precautionary principle	complex systems	4
+precautionary principle	diffusion of innovations	4
+precautionary principle	ecologically sustainable development	4
+precautionary principle	environmental law	4
+precautionary principle	environmental principles and policies	4
+precautionary principle	health impact assessment	4
+precautionary principle	maximin principle	4
+precautionary principle	micromort	4
+precautionary principle	possible carcinogen	4
+precautionary principle	postcautionary principle	4
+precautionary principle	prevention of disasters principle	4
+precautionary principle	proactionary principle	4
+precautionary principle	risk aversion	4
+precautionary principle	safe trade	4
+precautionary principle	substitution principle (sustainability)	4
+precautionary principle	superconducting super collider	4
+precautionary principle	sustainability	4
+precautionary principle	tombstone mentality	4
+precautionary principle	vaccine controversies	4
+planning fallacy	downside risk	4
+planning fallacy	hiding hand principle	4
+planning fallacy	hofstadter's law	4
+planning fallacy	parkinson's law	4
+law of large numbers	asymptotic equipartition property	4
+law of large numbers	central limit theorem	4
+law of large numbers	infinite monkey theorem	4
+law of large numbers	law of averages	4
+law of large numbers	law of the iterated logarithm	4
+law of large numbers	lindy effect	4
+law of large numbers	regression toward the mean	4
+law of large numbers	sortition	4
+law of large numbers	law of truly large numbers	4
+hofstadter's law	law of accelerating returns	4
+hofstadter's law	lindy effect	4
+hofstadter's law	ninety-ninety rule	4
+hofstadter's law	optimism bias	4
+hofstadter's law	parkinson's law	4
+hofstadter's law	planning fallacy	4
+hofstadter's law	reference class forecasting	4
+hofstadter's law	student syndrome	4
+hofstadter's law	valve time	4
+ergodic theory	chaos theory	4
+ergodic theory	ergodic hypothesis	4
+ergodic theory	ergodic process	4
+ergodic theory	lyapunov time	4
+ergodic theory	predictability	4
+ergodic theory	maximal ergodic theorem	4
+ergodic theory	ornstein isomorphism theorem	4
+ergodic theory	statistical mechanics	4
+ergodic theory	symbolic dynamics	4
+ergodic theory	lindy effect	4
+german tank problem	capture-recapture	4
+german tank problem	maximum spacing estimation	4
+german tank problem	copernican principle	4
+german tank problem	lindy effect	4
+german tank problem	doomsday argument	4
+german tank problem	generalized extreme value distribution	4
+german tank problem	maximum likelihood	4
+german tank problem	bias of an estimator	4
+german tank problem	likelihood function	4
+aging-associated diseases	accelerated aging disease	4
+aging-associated diseases	alliance for aging research	4
+aging-associated diseases	gerontology	4
+aging-associated diseases	senescence	4
+rejuvenation	ageless	4
+rejuvenation	aging brain	4
+rejuvenation	american academy of anti-aging medicine	4
+rejuvenation	gerontology	4
+rejuvenation	biological immortality	4
+rejuvenation	dna repair	4
+rejuvenation	dna damage theory of aging	4
+rejuvenation	eternal youth	4
+rejuvenation	facial rejuvenation	4
+rejuvenation	fountain of youth	4
+rejuvenation	hayflick	4
+rejuvenation	hayflick limit	4
+rejuvenation	immortality	4
+rejuvenation	indefinite lifespan	4
+rejuvenation	induced stem cells	4
+rejuvenation	life extension	4
+rejuvenation	maximum life span	4
+rejuvenation	nanomedicine	4
+rejuvenation	photorejuvenation	4
+rejuvenation	sage ke	4
+rejuvenation	senescence	4
+rejuvenation	shunamitism	4
+rejuvenation	telomere	4
+rejuvenation	telomerase	4
+rejuvenation	timeline of senescence research	4
+rejuvenation	tissue engineering	4
+rejuvenation	therapeutic cloning	4
+regenerative medicine	anti-aging medicine	4
+regenerative medicine	artificial organ	4
+regenerative medicine	biomedicine	4
+regenerative medicine	lin28	4
+regenerative medicine	polyphyodont	4
+regenerative medicine	regeneration in humans	4
+regenerative medicine	regenerative endodontics	4
+regenerative medicine	rejuvenation (aging)	4
+regenerative medicine	stem cell treatments	4
+regenerative medicine	tissue engineering and regenerative medicine international society	4
+regenerative medicine	tooth regeneration	4
+programmed cell death	anoikis	4
+programmed cell death	apoptosis-inducing factor	4
+programmed cell death	apoptosis	4
+programmed cell death	pseudoapoptosis	4
+programmed cell death	apoptosome	4
+programmed cell death	apoptotic dna fragmentation	4
+programmed cell death	autolysis (biology)	4
+programmed cell death	autophagy	4
+programmed cell death	autoschizis	4
+programmed cell death	bcl-2	4
+programmed cell death	bh3 interacting domain death agonist	4
+programmed cell death	calpain	4
+programmed cell death	caspases	4
+programmed cell death	cell damage	4
+programmed cell death	cornification	4
+programmed cell death	cytochrome c	4
+programmed cell death	cytotoxicity	4
+programmed cell death	diablo homolog	4
+programmed cell death	entosis	4
+programmed cell death	excitotoxicity	4
+programmed cell death	ferroptosis	4
+programmed cell death	inflammasome	4
+programmed cell death	mitochondrial permeability transition pore	4
+programmed cell death	mitotic catastrophe	4
+programmed cell death	necrobiology	4
+programmed cell death	necroptosis	4
+programmed cell death	necrosis	4
+programmed cell death	p53 upregulated modulator of apoptosis	4
+programmed cell death	paraptosis	4
+programmed cell death	parthanatos	4
+programmed cell death	pyroptosis	4
+programmed cell death	rip kinase	4
+programmed cell death	wallerian degeneration	4
+plant senescence	ageing	4
+plant senescence	senescence	4
+plant senescence	dna damage theory of aging	4
+phenoptosis	apoptosis	4
+phenoptosis	evolution of ageing	4
+phenoptosis	programmed cell death	4
+phenoptosis	sociobiology	4
+phenoptosis	survival of the fittest	4
+oxidative stress	reductive stress	4
+oxidative stress	acatalasia	4
+oxidative stress	antioxidant	4
+oxidative stress	bruce ames	4
+oxidative stress	denham harman	4
+oxidative stress	malondialdehyde	4
+oxidative stress	free-radical theory of aging	4
+oxidative stress	hormesis	4
+oxidative stress	nitric oxide	4
+oxidative stress	pro-oxidant	4
+oxidative stress	antioxidative stress	4
+old age	activist ageing	4
+old age	ageing	4
+old age	ageism	4
+old age	aging in dogs	4
+old age	aging in place	4
+old age	centenarian	4
+old age	elder rights	4
+old age	elder village	4
+old age	elderly care	4
+old age	food preferences in older adults and seniors	4
+old age	geriatric care management	4
+old age	gerontology	4
+old age	gerascophobia	4
+old age	international day of older persons	4
+old age	oldest people	4
+old age	pensioner	4
+old age	paternal age effect	4
+old age	respect for the aged day	4
+old age	retirement home	4
+old age	silver alert	4
+old age	supercentenarian	4
+old age	successful ageing	4
+homeostatic capacity	senescence	4
+geriatrics	aging in place	4
+geriatrics	aging-associated diseases	4
+geriatrics	alliance for aging research	4
+geriatrics	commission for certification in geriatric pharmacy	4
+geriatrics	elderly care	4
+geriatrics	gero-informatics	4
+geriatrics	gerri	4
+geriatrics	nosokinetics	4
+geriatrics	life extension	4
+geriatrics	geriatric medicine in egypt	4
+geriatrics	transgenerational design	4
+geriatrics	physical & occupational therapy in geriatrics	4
+geriatrics	gerontological nursing	4
+radical (chemistry)	electron pair	4
+radical (chemistry)	globally harmonized system of classification and labelling of chemicals	4
+radical (chemistry)	hofmann–löffler reaction	4
+radical (chemistry)	free radical centre	4
+population pyramid	age class structure	3
+population pyramid	baby boom	3
+population pyramid	demographic analysis	3
+population pyramid	demographic transition	3
+population pyramid	middle east youth initiative	3
+population pyramid	human overpopulation	3
+population pyramid	political demography	3
+population pyramid	population	3
+population pyramid	population growth	3
+population pyramid	human sex ratio	3
+population pyramid	waithood	3
+ageing	ageing brain	4
+ageing	ageing movement control	4
+ageing	ageing of europe	4
+ageing	ageing studies	4
+ageing	anti-ageing movement	4
+ageing	biodemography of human longevity	4
+ageing	biogerontology	4
+ageing	biological immortality	4
+ageing	biomarkers of ageing	4
+ageing	clinical geropsychology	4
+ageing	death	4
+ageing	epigenetic clock	4
+ageing	evolution of ageing	4
+ageing	genetics of ageing	4
+ageing	gerontology	4
+ageing	gerascophobia	4
+ageing	longevity	4
+ageing	mitochondrial theory of ageing	4
+ageing	neuroscience of ageing	4
+ageing	old age	4
+ageing	population ageing	4
+ageing	progeria	4
+ageing	stem cell theory of ageing	4
+ageing	supercentenarian	4
+ageing	transgenerational design	4
+mortality rate	biodemography	3
+mortality rate	compensation law of mortality	3
+mortality rate	demography	3
+mortality rate	gompertz–makeham law of mortality	3
+mortality rate	maximum life span	3
+mortality rate	micromort	3
+mortality rate	mortality displacement	3
+mortality rate	risk adjusted mortality rate	3
+mortality rate	vital statistics (government records)	3
+mortality rate	medical statistics	3
+mortality rate	weekend effect	3
+mithridatism	:de:arsenikesser	4
+mithridatism	hormesis	4
+mithridatism	mithridate	4
+mithridatism	vaccination	4
+arndt–schulz rule	hormesis	4
+waithood	boomerang generation	4
+waithood	dead-end job	4
+waithood	demographic transition	4
+waithood	emerging adulthood	4
+waithood	education in the middle east and north africa	4
+waithood	involuntary unemployment	4
+waithood	freeters	4
+waithood	hikikomori	4
+waithood	middle east youth initiative	4
+waithood	neet	4
+waithood	parasite single	4
+waithood	population pyramid	4
+waithood	precariat	4
+waithood	twixter	4
+waithood	youth exclusion	4
+human sex ratio	operational sex ratio	4
+human sex ratio	sex selection	4
+human sex ratio	sex-selective abortion and infanticide	4
+human sex ratio	surplus women	4
+human sex ratio	missing women	4
+human sex ratio	xy sex-determination system	4
+human sex ratio	lost boys (mormon fundamentalism)	4
+human sex ratio	missing women of china	4
+medical statistics	herd immunity	4
+medical statistics	false positives and false negatives	4
+medical statistics	rare disease	4
+medical statistics	hilda mary woods	4
+vital statistics (government records)	birth certificate	4
+vital statistics (government records)	british annals of medicine, pharmacy, vital statistics, and general science	4
+vital statistics (government records)	death certificate	4
+vital statistics (government records)	vital record	4
+vital statistics (government records)	crvs (civil registration and vital statistic)	4
+micromort	decision analysis	4
+micromort	decision theory	4
+micromort	ellsberg paradox	4
+micromort	microlife	4
+micromort	pascal's wager	4
+micromort	precautionary principle	4
+micromort	risk of ruin	4
+gompertz–makeham law of mortality	biodemography	4
+gompertz–makeham law of mortality	biodemography of human longevity	4
+gompertz–makeham law of mortality	gerontology	4
+gompertz–makeham law of mortality	demography	4
+gompertz–makeham law of mortality	life table	4
+gompertz–makeham law of mortality	maximum life span	4
+gompertz–makeham law of mortality	reliability theory of aging and longevity	4
+political demography	natalism	4
+political demography	religious demography	4
+political demography	quiverfull	4
+political demography	jack goldstone	4
+political demography	philip longman	4
+political demography	myron weiner	4
+political demography	ben wattenberg	4
+human overpopulation	accelerating change	4
+human overpopulation	antinatalism	4
+human overpopulation	behavioral sink	4
+human overpopulation	demographic trap	4
+human overpopulation	demographics of the world	4
+human overpopulation	earth system science	4
+human overpopulation	ethnic bioweapon	4
+human overpopulation	eugenics	4
+human overpopulation	fertility and intelligence	4
+human overpopulation	gaia hypothesis	4
+human overpopulation	global catastrophic risk	4
+human overpopulation	global issue	4
+human overpopulation	human migration	4
+human overpopulation	human population planning	4
+human overpopulation	malthusianism	4
+human overpopulation	malthusian trap	4
+human overpopulation	overexploitation	4
+human overpopulation	overshoot (population)	4
+human overpopulation	people smuggling	4
+human overpopulation	planetary boundaries	4
+human overpopulation	population ageing	4
+human overpopulation	reserve army of labour	4
+human overpopulation	societal collapse	4
+human overpopulation	tragedy of the commons	4
+human overpopulation	urbanization	4
+human overpopulation	voluntary human extinction movement	4
+human overpopulation	koyaanisqatsi	4
+human overpopulation	what a way to go: life at the end of empire	4
+human overpopulation	overpopulation in domestic pets	4
+human overpopulation	political demography	4
+demography	biodemography	4
+demography	biodemography of human longevity	4
+demography	demographics of the world	4
+demography	demographic economics	4
+demography	linguistic demography	4
+demography	religious demography	4
+demography	political demography	4
+demography	gompertz–makeham law of mortality	4
+demography	medieval demography	4
+demography	national security study memorandum 200	4
+demography	nrs social grade	4
+demography	population biology	4
+demography	population geography	4
+demography	population reconstruction	4
+demography	population statistics	4
+demography	replacement migration	4
+demography	reproductive health	4
+demography	population dynamics	4
+demography	current population survey	4
+demography	demographic and health surveys	4
+demography	european social survey	4
+demography	general social survey	4
+demography	german general social survey	4
+demography	allbus	4
+demography	socio-economic panel	4
+demography	national longitudinal survey	4
+demography	panel study of income dynamics	4
+demography	pma2020	4
+demography	world values survey	4
+demography	multiple indicator cluster surveys	4
+demography	office of population research	4
+demography	population reference bureau	4
+demography	population council	4
+demography	population studies center at the university of michigan	4
+demography	international institute for applied systems analysis	4
+demography	institut national d'études démographiques	4
+demography	max planck institute for demographic research	4
+demography	vienna institute of demography	4
+demography	wittgenstein centre for demography and global human capital	4
+demography	global social change research project	4
+demography	brazilian journal of population studies	4
+demography	demography (journal)	4
+demography	population and development review	4
+demography	cahiers québécois de démographie	4
+compensation law of mortality	ageing	4
+compensation law of mortality	biodemography of human longevity	4
+compensation law of mortality	gerontology	4
+compensation law of mortality	demography	4
+compensation law of mortality	mortality rate	4
+compensation law of mortality	reliability theory of aging and longevity	4
+population growth	an essay on the principle of population	4
+population growth	human overpopulation	4
+population growth	anthropocene	4
+population growth	baby boom	4
+population growth	biological exponential growth	4
+population growth	demographic history	4
+population growth	demographic transition	4
+population growth	density dependence	4
+population growth	doubling time	4
+population growth	fertility factor (demography)	4
+population growth	irruptive growth	4
+population growth	natalism	4
+population growth	antinatalism	4
+population growth	population bottleneck	4
+population growth	population decline	4
+population growth	population dynamics	4
+population growth	world population	4
+population growth	world scientists' warning to humanity	4
+population	community (ecology)	4
+population	lists of organisms by population	4
+population	human overpopulation	4
+population	population geography	4
+demographic transition	birth dearth	4
+demographic transition	demographic dividend	4
+demographic transition	demographic economics	4
+demographic transition	demographic trap	4
+demographic transition	demographic window	4
+demographic transition	epidemiological transition	4
+demographic transition	human overpopulation	4
+demographic transition	malthusian catastrophe	4
+demographic transition	logistic function	4
+demographic transition	zelinsky model	4
+demographic transition	population pyramid	4
+demographic transition	rate of natural increase	4
+demographic transition	population growth	4
+demographic transition	waithood	4
+demographic transition	world population milestones	4
+demographic transition	life history theory	4
+baby boom	agequake	4
+baby boom	american social policy during the second red scare	4
+baby boom	death rates in the 20th century	4
+baby boom	generation	4
+baby boom	population bottleneck	4
+baby boom	population growth	4
+baby boom	post–world war ii baby boom	4
+baby boom	strauss–howe generational theory	4
+age class structure	identification of aging in fish	4
+age class structure	population pyramid	4
+age class structure	population dynamics of fisheries	4
+stochastic resonance	mutual coherence (linear algebra)	4
+stochastic resonance	signal detection theory	4
+stochastic resonance	stochastic resonance (sensory neurobiology)	4
+radiation hormesis	background radiation	4
+radiation hormesis	dose fractionation	4
+radiation hormesis	hormesis	4
+radiation hormesis	radithor	4
+radiation hormesis	linear no-threshold model	4
+radiation hormesis	petkau effect	4
+radiation hormesis	radioresistance	4
+radiation hormesis	ramsar, mazandaran	4
+michael ristow	aging	4
+michael ristow	antioxidant	4
+michael ristow	hormesis	4
+medieval demography	historical demography	3
+medieval demography	classical demography	3
+medieval demography	early modern demography	3
+medieval demography	crisis of the late middle ages	3
+medieval demography	dark ages (historiography)	3
+medieval demography	life expectancy	3
+medieval demography	little ice age	3
+medieval demography	medieval household	3
+medieval demography	migration period	3
+medieval demography	slavery in medieval europe	3
+calorie restriction	cr society international	4
+calorie restriction	fasting	4
+calorie restriction	intermittent fasting	4
+calorie restriction	mitohormesis	4
+calorie restriction	okinawa diet	4
+calorie restriction	very low calorie diet	4
+migration period	bond event	4
+migration period	dark ages (historiography)	4
+migration period	environmental migrant	4
+migration period	genetic history of the british isles	4
+migration period	late antiquity	4
+migration period	medieval demography	4
+migration period	migration period art	4
+migration period	early slavs	4
+migration period	five barbarians	4
+migration period	sixteen kingdoms	4
+migration period	hephthalite empire	4
+migration period	immigration	4
+slavery in medieval europe	arab slave trade	4
+slavery in medieval europe	christianity and slavery	4
+slavery in medieval europe	catholic church and slavery	4
+slavery in medieval europe	history of slavery	4
+slavery in medieval europe	islamic views on slavery	4
+slavery in medieval europe	slavery in ancient greece	4
+slavery in medieval europe	slavery in ancient rome	4
+slavery in medieval europe	slavery in antiquity	4
+slavery in medieval europe	the bible and slavery	4
+medieval household	royal household	4
+medieval household	medieval cuisine	4
+medieval household	medieval demography	4
+medieval household	medieval fortification	4
+medieval household	medieval gardening	4
+medieval household	medieval hunting	4
+dark ages (historiography)	barbarian kingdoms	4
+dark ages (historiography)	conflict thesis	4
+dark ages (historiography)	continuity thesis	4
+crisis of the late middle ages	crisis of the third century	4
+crisis of the late middle ages	the general crisis	4
+crisis of the late middle ages	renaissance of the 12th century	4
+crisis of the late middle ages	renaissance	4
+crisis of the late middle ages	medieval demography	4
+crisis of the late middle ages	late middle ages	4
+crisis of the late middle ages	history of science in the middle ages	4
+crisis of the late middle ages	a distant mirror	4
+crisis of the late middle ages	the waning of the middle ages	4
+classical demography	historical demography	4
+classical demography	medieval demography	4
+classical demography	colonies in antiquity	4
+classical demography	roman agriculture	4
+classical demography	deforestation during the roman period	4
+early modern demography	classical demography	4
+early modern demography	medieval demography	4
+historical demography	classical demography	4
+historical demography	demographic history	4
+historical demography	demographic transition	4
+historical demography	demography	4
+historical demography	early modern demography	4
+historical demography	medieval demography	4
+historical demography	paleodemography	4
+historical demography	population reconstruction	4
+historical demography	prehistoric demography	4
+historical demography	quantitative history	4
+historical demography	world population	4
+historical demography	gross reproduction rate	4
+historical demography	population growth	4
+historical demography	sub-replacement fertility	4
+historical demography	total fertility rate	4
+extreme longevity tracking	aging and memory	4
+extreme longevity tracking	aging portfolio	4
+extreme longevity tracking	biological clock (aging)	4
+extreme longevity tracking	bionics	4
+extreme longevity tracking	clinical geropsychology	4
+extreme longevity tracking	elderly care	4
+extreme longevity tracking	financial gerontology	4
+extreme longevity tracking	life extension	4
+extreme longevity tracking	old age	4
+extreme longevity tracking	oldest people	4
+extreme longevity tracking	silver alert	4
+extreme longevity tracking	timeline of senescence research	4
+aubrey de grey	regenerative medicine	4
+life table	age-adjusted life expectancy	3
+life table	actuarial present value	3
+life table	decrement table	3
+life table	gompertz–makeham law of mortality	3
+life table	strategies for engineered negligible senescence	3
+life table	survival analysis	3
+life table	service life	3
+compression of morbidity	successful aging	4
+american aging association	ageing	4
+american aging association	senescence	4
+american aging association	biogerontology	4
+american aging association	geroscience	4
+survival analysis	accelerated failure time model	4
+survival analysis	bayesian survival analysis	4
+survival analysis	cell survival curve	4
+survival analysis	censoring (statistics)	4
+survival analysis	failure rate	4
+survival analysis	frequency of exceedance	4
+survival analysis	kaplan–meier estimator	4
+survival analysis	logrank test	4
+survival analysis	maximum likelihood	4
+survival analysis	mortality rate	4
+survival analysis	mtbf	4
+survival analysis	proportional hazards models	4
+survival analysis	reliability theory	4
+survival analysis	residence time (statistics)	4
+survival analysis	survival function	4
+survival analysis	survival rate	4
+actuarial present value	actuarial science	4
+actuarial present value	actuarial notation	4
+actuarial present value	actuarial reserves	4
+actuarial present value	actuary	4
+actuarial present value	life table	4
+actuarial present value	present value	4
+decrement table	survival analysis	4
+age-adjusted life expectancy	depreciation	4
+age-adjusted life expectancy	biodemography	4
+age-adjusted life expectancy	calorie restriction	4
+age-adjusted life expectancy	demography	4
+age-adjusted life expectancy	dna damage theory of aging	4
+age-adjusted life expectancy	glasgow effect	4
+age-adjusted life expectancy	healthcare inequality	4
+age-adjusted life expectancy	indefinite lifespan	4
+age-adjusted life expectancy	life table	4
+age-adjusted life expectancy	maximum life span	4
+age-adjusted life expectancy	medieval demography	4
+age-adjusted life expectancy	mitohormesis	4
+age-adjusted life expectancy	mortality rate	4
+age-adjusted life expectancy	population pyramid	4
+age-adjusted life expectancy	senescence	4
+age-adjusted life expectancy	lindy effect	4
+age-adjusted life expectancy	strategies for engineered negligible senescence	4
+age-adjusted life expectancy	john sperling	4
+age-adjusted life expectancy	life extension	4
+age-adjusted life expectancy	longevity	4
+age-adjusted life expectancy	rejuvenation (aging)	4
+age-adjusted life expectancy	public health	4
+age-adjusted life expectancy	infant mortality	4
+service life	planned obsolescence	4
+service life	shelf life	4
+healthcare inequality	center for minority health	3
+healthcare inequality	drift hypothesis	3
+healthcare inequality	eurohealthnet	3
+healthcare inequality	environmental justice	3
+healthcare inequality	environmental racism	3
+healthcare inequality	global task force on expanded access to cancer care and control in developing countries	3
+healthcare inequality	health disparities center	3
+healthcare inequality	healthcare and the lgbt community	3
+healthcare inequality	hopkins center for health disparities solutions	3
+healthcare inequality	immigrant paradox	3
+healthcare inequality	inequality in disease	3
+healthcare inequality	joint action health equity in europe	3
+healthcare inequality	mental health inequality	3
+healthcare inequality	population health	3
+healthcare inequality	public health	3
+healthcare inequality	social determinants of health	3
+healthcare inequality	social determinants of health in poverty	3
+healthcare inequality	unnatural causes: is inequality making us sick?	3
+glasgow effect	housing in glasgow	3
+glasgow effect	salutogenesis	3
+dna damage (naturally occurring)	ageing	4
+dna damage (naturally occurring)	aging brain	4
+dna damage (naturally occurring)	ap site	4
+dna damage (naturally occurring)	direct dna damage	4
+dna damage (naturally occurring)	dna	4
+dna damage (naturally occurring)	dna adduct	4
+dna damage (naturally occurring)	dna damage theory of aging	4
+dna damage (naturally occurring)	dna repair	4
+dna damage (naturally occurring)	dna replication	4
+dna damage (naturally occurring)	free radical damage to dna	4
+dna damage (naturally occurring)	homologous recombination	4
+dna damage (naturally occurring)	meiosis	4
+dna damage (naturally occurring)	mutation	4
+dna damage (naturally occurring)	natural competence	4
+dna damage (naturally occurring)	origin and function of meiosis	4
+dna damage (naturally occurring)	reactive oxygen species	4
+very low calorie diet	wp:seealso	4
+very low calorie diet	dieting	4
+very low calorie diet	management of obesity	4
+very low calorie diet	negative-calorie food	4
+very low calorie diet	ketosis	4
+okinawa diet	calorie restriction	4
+okinawa diet	hara hachi bu	4
+okinawa diet	longevity in okinawa	4
+okinawa diet	okinawan cuisine	4
+okinawa diet	mediterranean diet	4
+salutogenesis	determinants of health	4
+salutogenesis	logotherapy	4
+salutogenesis	public health	4
+salutogenesis	the peckham experiment	4
+salutogenesis	pathogenesis	4
+social determinants of health in poverty	diseases of poverty	4
+social determinants of health	adverse childhood experiences study	4
+social determinants of health	causal inference	4
+social determinants of health	center for minority health	4
+social determinants of health	diseases of affluence	4
+social determinants of health	diseases of poverty	4
+social determinants of health	epidemiology	4
+social determinants of health	eurohealthnet	4
+social determinants of health	etiology	4
+social determinants of health	exercise	4
+social determinants of health	global health	4
+social determinants of health	health equity	4
+social determinants of health	behavior	4
+social determinants of health	health literacy	4
+social determinants of health	healthy people	4
+social determinants of health	inequality in disease	4
+social determinants of health	joint action health equity in europe	4
+social determinants of health	hopkins center for health disparities solutions	4
+social determinants of health	medical anthropology	4
+social determinants of health	medical sociology	4
+social determinants of health	molecular pathological epidemiology	4
+social determinants of health	pathogenesis	4
+social determinants of health	pathology	4
+social determinants of health	population health	4
+social determinants of health	population health forum	4
+social determinants of health	race and health	4
+social determinants of health	social determinants of health in mexico	4
+social determinants of health	social determinants of obesity	4
+social determinants of health	social epidemiology	4
+social determinants of health	unnatural causes: is inequality making us sick?	4
+social determinants of health	whitehall study	4
+social determinants of health	michael marmot	4
+social determinants of health	richard g. wilkinson	4
+social determinants of health	dennis raphael	4
+population health	auxology	4
+population health	community health	4
+population health	economic inequality	4
+population health	health disparities	4
+population health	health impact assessment	4
+population health	inequality in disease	4
+population health	population health forum	4
+population health	social determinants of health	4
+population health	pophealth	4
+mental health inequality	acculturation	4
+mental health inequality	immigrant paradox	4
+immigrant paradox	acculturation	4
+immigrant paradox	americanization (immigration)	4
+immigrant paradox	health equity	4
+immigrant paradox	hispanic paradox	4
+immigrant paradox	mental health inequality	4
+immigrant paradox	minority stress	4
+inequality in disease	health equity	4
+inequality in disease	social determinants of health	4
+inequality in disease	social determinants of health in poverty	4
+inequality in disease	social determinants of obesity	4
+inequality in disease	social epidemiology	4
+inequality in disease	unnatural causes: is inequality making us sick?	4
+inequality in disease	hygiene hypothesis	4
+inequality in disease	diseases of affluence	4
+inequality in disease	diseases of poverty	4
+inequality in disease	public health	4
+inequality in disease	typhus	4
+healthcare and the lgbt community	lgbt healthcare in the united states veterans health administration	4
+healthcare and the lgbt community	health equity	4
+healthcare and the lgbt community	healthcare inequality	4
+healthcare and the lgbt community	lgbt people in prison	4
+healthcare and the lgbt community	minority stress	4
+healthcare and the lgbt community	steven epstein (academic)	4
+healthcare and the lgbt community	tamsin wilton	4
+environmental racism	antiziganism	4
+environmental racism	cancer alley	4
+environmental racism	climate change and poverty	4
+environmental racism	economic inequality	4
+environmental racism	eco-terrorism	4
+environmental racism	electronic waste	4
+environmental racism	environmental inequality in the united kingdom	4
+environmental racism	environmental justice	4
+environmental racism	environmental policy of the united states	4
+environmental racism	environmental inequality in europe	4
+environmental racism	internalized racism	4
+environmental racism	nimby	4
+environmental racism	environmental dumping	4
+environmental racism	hawks nest tunnel disaster	4
+environmental racism	health inequality and environmental influence	4
+environmental racism	public health problems in the aral sea region	4
+environmental racism	intergenerational equity	4
+environmental racism	planned shrinkage	4
+environmental racism	pollution in the united states	4
+environmental racism	race and health	4
+environmental racism	social inequality	4
+environmental racism	triangle of death (italy)	4
+environmental racism	uranium mining and the navajo people	4
+eurohealthnet	social determinants of health	4
+eurohealthnet	health promotion	4
+eurohealthnet	health equity	4
+eurohealthnet	sustainable development	4
+environmental justice	climate justice	4
+environmental justice	environmental contract	4
+environmental justice	environmental criminology	4
+environmental justice	environmental history	4
+environmental justice	environmental justice foundation	4
+environmental justice	environmental law	4
+environmental justice	environmental policy of the united states	4
+environmental justice	environmental racism	4
+environmental justice	environmental racism in europe	4
+environmental justice	environmental sociology	4
+environmental justice	equality impact assessment	4
+environmental justice	extinction debt	4
+environmental justice	health equity	4
+environmental justice	resource justice	4
+environmental justice	sustainable development	4
+environmental justice	alton, rhode island	4
+environmental justice	hunters point, san francisco, california	4
+environmental justice	rural action	4
+environmental justice	toxic 100	4
+environmental justice	environmental justice and coal mining in appalachia	4
+cr society international	cron-diet	4
+intermittent fasting	wp:seealso	4
+intermittent fasting	2010s in food	4
+intermittent fasting	healthy diet	4
+intermittent fasting	inedia	4
+intermittent fasting	very-low-calorie diet	4
+intermittent fasting	sustainable diet	4
+intermittent fasting	weight loss	4
+fasting	angus barbieri's fast	4
+fasting	anorexia mirabilis	4
+fasting	anorexia nervosa	4
+fasting	asceticism	4
+fasting	black fast	4
+fasting	break fast	4
+fasting	calorie restriction	4
+fasting	fasting in jainism	4
+fasting	force-feeding	4
+fasting	fruitarianism	4
+fasting	gastroenteritis	4
+fasting	religious intolerance	4
+fasting	superstition	4
+fasting	hunger strike	4
+fasting	inedia	4
+fasting	intermittent fasting	4
+fasting	juice fasting	4
+fasting	poustinia	4
+fasting	protein-sparing modified fast	4
+fasting	santhara	4
+fasting	simple living	4
+fasting	starvation response	4
+fasting	taboo food and drink	4
+fasting	vegetarianism and religion	4
+institut national d'études démographiques	demographics in france	4
+max planck institute for demographic research	extreme longevity tracking	4
+max planck institute for demographic research	institut national d'études démographiques	4
+max planck institute for demographic research	population association of america	4
+max planck institute for demographic research	population reference bureau	4
+max planck institute for demographic research	population europe	4
+international institute for applied systems analysis	club of rome	4
+population council	birth control movement in the united states	4
+population council	demography	4
+population council	sustainable development	4
+population council	rockefeller family	4
+population council	mifepristone	4
+population council	human overpopulation	4
+population reference bureau	population association of america	4
+population reference bureau	institut national d'études démographiques	4
+population reference bureau	max planck institute for demographic research	4
+pma2020	demographic and health surveys	4
+pma2020	multiple indicator cluster surveys	4
+world values survey	bhutan gnh index	4
+world values survey	broad measures of economic progress	4
+world values survey	disability-adjusted life year	4
+world values survey	full cost accounting	4
+world values survey	green national product	4
+world values survey	green gross domestic product	4
+world values survey	gender-related development index	4
+world values survey	genuine progress indicator	4
+world values survey	global peace index	4
+world values survey	gross national happiness	4
+world values survey	gross national well-being	4
+world values survey	happiness economics	4
+world values survey	happy planet index	4
+world values survey	human development index	4
+world values survey	isew	4
+world values survey	legatum prosperity index	4
+world values survey	leisure satisfaction	4
+world values survey	living planet index	4
+world values survey	law of social cycle	4
+world values survey	millennium development goals	4
+world values survey	money-rich, time-poor	4
+world values survey	oecd better life index	4
+world values survey	subjective life satisfaction	4
+world values survey	where-to-be-born index	4
+world values survey	wikiprogress	4
+world values survey	world happiness report	4
+world values survey	world social capital monitor	4
+world values survey	economics	4
+world values survey	democracy ranking	4
+world values survey	demographic economics	4
+world values survey	economic development	4
+world values survey	ethics of care	4
+world values survey	human development and capability association	4
+world values survey	human poverty index	4
+world values survey	political spectrum	4
+world values survey	progress (history)	4
+world values survey	progressive utilization theory	4
+world values survey	post-materialism	4
+world values survey	psychometrics	4
+world values survey	international association for feminist economics	4
+world values survey	international development	4
+world values survey	spiral dynamics	4
+world values survey	sustainable development	4
+world values survey	system of national accounts	4
+world values survey	welfare economics	4
+world values survey	self-expression values	4
+world values survey	values modes	4
+panel study of income dynamics	socio-economic panel	4
+panel study of income dynamics	german institute for economic research	4
+panel study of income dynamics	british household panel survey	4
+panel study of income dynamics	university of essex	4
+panel study of income dynamics	uk households: a longitudinal study	4
+panel study of income dynamics	household, income and labour dynamics in australia survey	4
+panel study of income dynamics	survey on household income and wealth	4
+socio-economic panel	canadian survey of labour and income dynamics	4
+socio-economic panel	household, income and labour dynamics in australia survey	4
+socio-economic panel	panel study of income dynamics	4
+socio-economic panel	swiss household panel	4
+socio-economic panel	liss panel	4
+socio-economic panel	survey on household income and wealth	4
+socio-economic panel	uk households: a longitudinal study	4
+socio-economic panel	british household panel survey	4
+german general social survey	panel data	4
+german general social survey	socio-economic panel	4
+german general social survey	panel study of income dynamics	4
+allbus	panel data	4
+allbus	socio-economic panel	4
+allbus	panel study of income dynamics	4
+general social survey	european social survey	4
+general social survey	german general social survey	4
+general social survey	international social survey programme	4
+demographic and health surveys	national survey of family growth	4
+demographic and health surveys	pma2020	4
+reproductive health	sexual intercourse	4
+reproductive health	abortion debate	4
+reproductive health	demography	4
+reproductive health	international conference on population and development	4
+reproductive health	popline	4
+reproductive health	the info project	4
+reproductive health	reproductive justice	4
+reproductive health	obstetric transition	4
+reproductive health	comprehensive sex education	4
+reproductive health	association of reproductive health professionals	4
+reproductive health	engenderhealth	4
+reproductive health	guttmacher institute	4
+reproductive health	german foundation for world population	4
+reproductive health	international planned parenthood federation	4
+reproductive health	marie stopes international	4
+reproductive health	pacific society for reproductive health trust	4
+reproductive health	reproductive health supplies coalition	4
+reproductive health	united nations population fund	4
+reproductive health	measure evaluation	4
+population dynamics	delayed density dependence	4
+population dynamics	demography	4
+population dynamics	holocene extinction	4
+population dynamics	lotka-volterra equations	4
+population dynamics	minimum viable population	4
+population dynamics	maximum sustainable yield	4
+population dynamics	nicholson–bailey model	4
+population dynamics	overshoot (population)	4
+population dynamics	pest insect population dynamics	4
+population dynamics	population cycle	4
+population dynamics	population dynamics of fisheries	4
+population dynamics	population ecology	4
+population dynamics	population genetics	4
+population dynamics	population modeling	4
+population dynamics	ricker model	4
+population dynamics	r/k selection theory	4
+population dynamics	sigmoid curve	4
+population dynamics	societal collapse	4
+population dynamics	system dynamics	4
+population statistics	demographic window	4
+population statistics	census	4
+population statistics	census bureau	4
+population statistics	census tract	4
+population statistics	census block group	4
+population statistics	census block	4
+population statistics	intercensal estimate	4
+population statistics	population projection	4
+population reconstruction	one-place study	4
+population geography	geodemography	4
+population geography	geodemographic segmentation	4
+population biology	ecological genetics	4
+population biology	genetic diversity	4
+population biology	population ecology	4
+population biology	quantitative genetics	4
+nrs social grade	acorn (demographics)	4
+nrs social grade	national statistics socio-economic classification	4
+nrs social grade	social class	4
+nrs social grade	socioeconomic status	4
+demographics of the world	demographics of north america	4
+demographics of the world	demographics of south america	4
+demographics of the world	demographics of asia	4
+demographics of the world	demographics of africa	4
+demographics of the world	demographics of oceania	4
+demographics of the world	demographics of europe	4
+demographics of the world	demographics of antarctica	4
+religious demography	dharma	4
+religious demography	irreligion	4
+religious demography	numinous	4
+religious demography	religious conversion	4
+religious demography	religious text	4
+religious demography	state religion	4
+linguistic demography	abstand and ausbau languages	4
+linguistic demography	autonomous language	4
+linguistic demography	language geography	4
+linguistic demography	languages in censuses	4
+linguistic demography	language demographics of quebec	4
+linguistic demography	language spoken at home (u.s. census)	4
+demographic economics	cost of raising a child	4
+demographic economics	family economics	4
+demographic economics	generational accounting	4
+demographic economics	growth economics	4
+demographic economics	income and fertility	4
+demographic economics	demographic dividend	4
+demographic economics	demographic transition	4
+demographic economics	demographic gift	4
+demographic economics	demographic window	4
+demographic economics	demographic trap	4
+demographic economics	preston curve	4
+demographic economics	development economics	4
+depreciation	amortization	3
+depreciation	construction in progress	3
+depreciation	consumption of fixed capital	3
+depreciation	cost segregation study	3
+depreciation	deferred financing costs	3
+depreciation	deferred tax	3
+depreciation	depletion (accounting)	3
+depreciation	expense	3
+depreciation	john i. beggs	3
+depreciation	life expectancy	3
+depreciation	macrs	3
+depreciation	revaluation of fixed assets	3
+depreciation	writing down allowance	3
+society for biodemography and social biology	american society of human genetics	4
+society for biodemography and social biology	british eugenics society	4
+society for biodemography and social biology	eugenics in the united states	4
+society for biodemography and social biology	human betterment foundation	4
+paleodemography	population reconstruction	4
+paleodemography	world population estimates	4
+epidemiology	age adjustment	4
+epidemiology	caerphilly heart disease study	4
+epidemiology	centre for research on the epidemiology of disasters (cred)	4
+epidemiology	critical community size	4
+epidemiology	disease diffusion mapping	4
+epidemiology	epidemic model	4
+epidemiology	epidemiological methods	4
+epidemiology	epidemiological transition	4
+epidemiology	european centre for disease prevention and control	4
+epidemiology	hispanic paradox	4
+epidemiology	international society for pharmacoepidemiology	4
+epidemiology	mathematical modelling in epidemiology	4
+epidemiology	mendelian randomization	4
+epidemiology	occupational health science	4
+epidemiology	population groups in biomedicine	4
+epidemiology	study of health in pomerania	4
+epidemiology	targeted immunization strategies	4
+epidemiology	whitehall study	4
+pension rights center	employee benefits security administration	3
+pension rights center	elder law	3
+pension rights center	united states senate special committee on aging	3
+pension rights center	pbgc	3
+writing down allowance	amortization (tax law)	4
+writing down allowance	depreciation	4
+writing down allowance	double irish arrangement	4
+revaluation of fixed assets	capital appreciation	4
+revaluation of fixed assets	depreciation	4
+revaluation of fixed assets	requirements of ifrs	4
+revaluation of fixed assets	revaluation	4
+john i. beggs	east troy electric railroad	4
+john i. beggs	edison pioneers	4
+pbgc	bankruptcy in the united states	4
+pbgc	federal deposit insurance corporation	4
+pbgc	kline-miller multiemployer pension reform act of 2014	4
+pbgc	pension	4
+pbgc	pension protection act of 2006	4
+pbgc	pension rights center	4
+pbgc	securities investor protection corporation	4
+pbgc	social insurance	4
+pbgc	title 29 of the code of federal regulations	4
+macrs	capital cost allowance	4
+elder law	activist ageing	4
+elder law	age concern	4
+elder law	elder abuse	4
+elder law	elder law in india	4
+elder law	elder law (united states)	4
+elder law	elder law (massachusetts)	4
+elder law	nursing home residents' rights	4
+employee benefits security administration	title 29 of the code of federal regulations	4
+employee benefits security administration	pension rights center	4
+expense	amortization (business)	4
+expense	balance sheet	4
+expense	capital expenditures	4
+expense	cash flow statement	4
+expense	depreciation	4
+expense	expense management	4
+expense	expenses versus capital expenditures	4
+expense	income statement	4
+expense	operating expense	4
+expense	per diem	4
+expense	stock option expensing	4
+depletion (accounting)	depreciation	4
+depletion (accounting)	amortization	4
+depletion (accounting)	oil depletion allowance	4
+deferred tax	deferred financing costs	4
+deferred tax	tax shield	4
+deferred financing costs	deferred tax	4
+deferred financing costs	deferred acquisition costs	4
+cost segregation study	depreciation	4
+cost segregation study	macrs	4
+consumption of fixed capital	capital consumption allowance	4
+consumption of fixed capital	depreciation	4
+consumption of fixed capital	fixed capital	4
+consumption of fixed capital	gross output	4
+consumption of fixed capital	intermediate consumption	4
+consumption of fixed capital	united nations system of national accounts (unsna)	4
+consumption of fixed capital	value added	4
+consumption of fixed capital	value product	4
+amortization	tax amortization benefit	4
+individual pension plan	pension system	3
+individual pension plan	registered retirement savings plan	3
+individual pension plan	retirement compensation arrangements (canada)	3
+individual pension plan	registered retirement income fund	3
+individual pension plan	retirement plan	3
+individual pension plan	superannuation in australia	3
+individual pension plan	401(k)	3
+ham and eggs movement	ham and eggs	3
+ham and eggs movement	will h. kindig	3
+social pension	social insurance	3
+social pension	social protection	3
+social pension	social protection floor	3
+social pension	social safety net	3
+social pension	welfare state	3
+social pension	welfare culture	3
+retirement planning	individual retirement account	3
+retirement planning	retirement plans in the united states	3
+retirement age	pension	3
+retirement age	retirement	3
+retirement age	retirement in europe	3
+retirement age	mandatory retirement	3
+retirement age	history of retirement	3
+superannuation in australia	industry superannuation fund	4
+superannuation in australia	australian government future fund	4
+superannuation in australia	german pensions	4
+superannuation in australia	pension system	4
+superannuation in australia	social security (australia)	4
+superannuation in australia	uk pensions	4
+superannuation in australia	us pensions	4
+welfare culture	criticisms of welfare	4
+welfare culture	cycle of poverty	4
+welfare culture	horatio alger myth	4
+welfare culture	social floor	4
+welfare culture	social insurance	4
+welfare culture	social mobility	4
+welfare culture	welfare economics	4
+welfare culture	welfare	4
+welfare culture	welfare's effect on poverty	4
+retirement plans in the united states	retirement plan	4
+retirement plans in the united states	individual retirement account	4
+retirement plans in the united states	public employee pension plans in the united states	4
+retirement plans in the united states	401(k)	4
+retirement plans in the united states	403(b)	4
+retirement plans in the united states	401(a)	4
+retirement plans in the united states	457 plan	4
+retirement plans in the united states	roth ira	4
+retirement plans in the united states	roth 401(k)	4
+history of retirement	retirement age	4
+mandatory retirement	pension	4
+mandatory retirement	retirement	4
+mandatory retirement	retirement age	4
+mandatory retirement	up or out	4
+pension	elderly care	4
+pension	financial advisor	4
+pension	fee-only financial advisor	4
+pension	generational accounting	4
+pension	pension led funding	4
+pension	pension model	4
+pension	pensions crisis	4
+pension	public debt	4
+pension	retirement	4
+pension	retirement age	4
+pension	retirement planning	4
+pension	social pension	4
+pension	ham and eggs movement	4
+pension	individual pension plan	4
+pension	pension rights center	4
+pension	roth 401(k)	4
+pension	universities superannuation scheme	4
+retirement	simple living	4
+retirement	downshifting (lifestyle)	4
+retirement	pension	4
+retirement	ageing	4
+retirement	mandatory retirement	4
+retirement	gerontology	4
+retirement	social security	4
+retirement	retirement spend down	4
+retirement	asset/liability modeling	4
+retirement in europe	pension	4
+retirement in europe	retirement	4
+retirement in europe	ageing of europe	4
+retirement in europe	demographics of europe	4
+retirement in europe	immigration to europe	4
+retirement in europe	population decline	4
+retirement in europe	survey of health, ageing and retirement in europe	4
+welfare state	constitutional economics	4
+welfare state	corporate welfare	4
+welfare state	fifth power	4
+welfare state	flexicurity	4
+welfare state	free rider problem	4
+welfare state	happiness economics	4
+welfare state	hidden welfare state	4
+welfare state	nanny state	4
+welfare state	social policy	4
+welfare state	social protection	4
+welfare state	social stratification	4
+welfare state	state socialism (germany)	4
+welfare state	unintended consequences	4
+welfare state	welfare capitalism	4
+welfare state	welfare reform	4
+welfare state	welfare state in the united kingdom	4
+welfare state	european social model	4
+welfare state	social programs in the united states	4
+welfare state	third way	4
+welfare state	cloward–piven strategy	4
+welfare state	transfer payment	4
+welfare state	council house	4
+welfare state	housing estate	4
+welfare state	public housing	4
+social safety net	basic income	4
+social safety net	social insurance	4
+social safety net	social network	4
+social safety net	social security	4
+social safety net	social welfare provision	4
+social safety net	solidarity economy	4
+social safety net	welfare (financial aid)	4
+social safety net	welfare state	4
+social protection floor	social security	4
+social protection floor	social health insurance	4
+social protection floor	social protection	4
+social protection floor	social safety net	4
+social protection floor	social welfare provision	4
+social protection floor	welfare state	4
+social protection floor	welfare culture	4
+social protection	social security	4
+social protection	welfare state	4
+social protection	socialism	4
+social insurance	generational accounting	4
+social insurance	right to health	4
+social insurance	social insurance number	4
+social insurance	social security	4
+social insurance	social security (united states)	4
+social insurance	social security in sweden	4
+social insurance	social security in australia	4
+social insurance	social security disability insurance	4
+social insurance	social health insurance	4
+social insurance	social protection	4
+social insurance	social protection floor	4
+social insurance	social safety net	4
+social insurance	social welfare provision	4
+social insurance	universal health care	4
+social insurance	welfare state	4
+social insurance	welfare culture	4
+ham and eggs	bacon, egg and cheese sandwich	4
+ham and eggs	denver sandwich	4
+ham and eggs	green eggs and ham	4
+ham and eggs	ham and cheese sandwich	4
+ham and eggs	ham and egg bun	4
+ham and eggs	scrambled eggs	4
+registered retirement income fund	canada revenue agency	4
+registered retirement income fund	income tax	4
+registered retirement income fund	registered retirement savings plan	4
+registered retirement income fund	retirement	4
+retirement compensation arrangements (canada)	pension	4
+retirement compensation arrangements (canada)	registered retirement savings plan	4
+retirement compensation arrangements (canada)	individual pension plan	4
+pension system	elderly care	4
+pension system	financial advisor	4
+pension system	fee-only financial advisor	4
+pension system	generational accounting	4
+pension system	pension led funding	4
+pension system	pension model	4
+pension system	pensions crisis	4
+pension system	public debt	4
+pension system	retirement	4
+pension system	retirement age	4
+pension system	retirement planning	4
+pension system	social pension	4
+pension system	ham and eggs movement	4
+pension system	individual pension plan	4
+pension system	pension rights center	4
+pension system	roth 401(k)	4
+pension system	universities superannuation scheme	4
+registered retirement savings plan	registered retirement income fund	4
+registered retirement savings plan	locked-in retirement account	4
+registered retirement savings plan	registered education savings plan	4
+registered retirement savings plan	henson trust	4
+registered retirement savings plan	saskatchewan pension plan	4
+registered retirement savings plan	retirement compensation arrangements (canada)	4
+registered retirement savings plan	tax-free savings account (canada)	4
+registered retirement savings plan	taxation in canada	4
+registered retirement savings plan	pension	4
+public debt	debt crisis	3
+public debt	government bond	3
+public debt	government budget deficit	3
+public debt	government spending	3
+public debt	generational accounting	3
+public debt	financial repression	3
+public debt	fiscal policy	3
+public debt	public finance	3
+public debt	debt clock	3
+public debt	sovereign default	3
+public debt	tax	3
+public debt	1980s austerity policy in romania	3
+public debt	latin american debt crisis	3
+public debt	2010 european sovereign debt crisis	3
+public debt	united states public debt	3
+public debt	national debt of the united states	3
+public debt	bond (finance)	3
+public debt	credit default swap	3
+public debt	warrant of payment	3
+asset/liability modeling	net worth	4
+asset/liability modeling	high-net-worth individual	4
+retirement spend down	trinity study	4
+social security	basic income	4
+social security	cash transfers	4
+social security	contingencies fund	4
+social security	general government (in economics)	4
+social security	economic, social and cultural rights	4
+social security	yung-ping chen	4
+social security	generational accounting	4
+social security	health care system	4
+social security	human security	4
+social security	identity theft	4
+social security	intergenerationality	4
+social security	international social security association	4
+social security	publicly funded health care	4
+social security	national health insurance	4
+social security	right to social security	4
+social security	right to an adequate standard of living	4
+social security	social policy	4
+social security	social protection	4
+social security	social protection floor	4
+social security	social safety net	4
+social security	social welfare provision	4
+social security	the fourth pillar	4
+social security	welfare	4
+social security	welfare rights	4
+social security	welfare state	4
+credit default swap	bucket shop (stock market)	4
+credit default swap	constant maturity credit default swap	4
+credit default swap	credit default option	4
+credit default swap	credit default swap index	4
+credit default swap	cusip linked mip code	4
+credit default swap	inside job (2010 film)	4
+credit default swap	paug	4
+credit default swap	recovery swap	4
+credit default swap	toxic security	4
+credit default swap	intercontinental exchange	4
+credit default swap	risk participation agreement	4
+bond (finance)	bond credit rating	4
+bond (finance)	collective action clause	4
+bond (finance)	debenture	4
+bond (finance)	deferred financing costs	4
+bond (finance)	gdp-linked bond	4
+bond (finance)	government bond	4
+bond (finance)	sovereign bonds	4
+bond (finance)	immunization (finance)	4
+bond (finance)	promissory note	4
+bond (finance)	short-rate model	4
+bond (finance)	penal bond	4
+bond (finance)	structured note	4
+bond (finance)	brady bonds	4
+bond (finance)	build america bonds	4
+bond (finance)	eurobond (international)	4
+bond (finance)	fixed income	4
+national debt of the united states	criticism of the federal reserve	4
+national debt of the united states	emergency economic stabilization act of 2008	4
+national debt of the united states	financial position of the united states	4
+national debt of the united states	sovereign default	4
+national debt of the united states	troubled asset relief program	4
+united states public debt	criticism of the federal reserve	4
+united states public debt	emergency economic stabilization act of 2008	4
+united states public debt	financial position of the united states	4
+united states public debt	sovereign default	4
+united states public debt	troubled asset relief program	4
+warrant of payment	government debt	4
+2010 european sovereign debt crisis	2000s commodities boom	4
+2010 european sovereign debt crisis	crisis situations and unrest in europe since 2000	4
+2010 european sovereign debt crisis	federal reserve economic data	4
+2010 european sovereign debt crisis	great recession	4
+2010 european sovereign debt crisis	great recession in europe	4
+2010 european sovereign debt crisis	political midlife crisis	4
+latin american debt crisis	crisis of 1982	4
+latin american debt crisis	latin american economy	4
+latin american debt crisis	odious debt	4
+1980s austerity policy in romania	nicolae ceaușescu's cult of personality	4
+1980s austerity policy in romania	economy of the socialist republic of romania	4
+tax	advance tax ruling	4
+tax	excess burden of taxation	4
+tax	fiscal capacity	4
+tax	fiscal incidence	4
+tax	government budget balance	4
+tax	international taxation	4
+tax	price ceiling	4
+tax	price floor	4
+tax	revolutionary tax	4
+tax	robbery	4
+tax	tax competition	4
+tax	tax exporting	4
+tax	tax haven	4
+tax	taxpayer receipt	4
+tax	tax resistance	4
+tax	tax shelter	4
+sovereign default	asset liability mismatch	4
+sovereign default	sovereign bond	4
+sovereign default	debt crisis	4
+sovereign default	external debt	4
+sovereign default	currency crisis	4
+sovereign default	financial crisis	4
+sovereign default	balance of payments	4
+sovereign default	vulture fund	4
+public finance	constitutional economics	4
+public finance	efficiency dividend	4
+public finance	fiscal incidence	4
+public finance	government budget	4
+public finance	henry george theorem	4
+public finance	personal finance	4
+public finance	public economics	4
+public finance	public choice	4
+fiscal policy	econometrics	4
+fiscal policy	fiscal observatory of latin america and the caribbean	4
+fiscal policy	fiscal policy of the united states	4
+fiscal policy	fiscal union	4
+fiscal policy	functional finance	4
+fiscal policy	interaction between monetary and fiscal policies	4
+fiscal policy	monetary policy	4
+fiscal policy	national fiscal policy response to the late 2000s recession	4
+fiscal policy	policy mix	4
+financial repression	capital controls	4
+financial repression	banking regulation	4
+financial repression	bank reserves	4
+financial repression	inflation tax	4
+financial repression	indirect tax	4
+financial repression	hidden tax	4
+financial repression	internal devaluation	4
+financial repression	sovereign debt	4
+financial repression	financial regulation	4
+financial repression	macroprudential policy	4
+financial repression	debasement	4
+generational accounting	dependency ratio	4
+generational accounting	distribution (economics)	4
+generational accounting	demographic economics	4
+generational accounting	pensions crisis	4
+generational accounting	social welfare provision	4
+generational accounting	wealth (economics)	4
+government spending	rahn curve	4
+government spending	government operations	4
+government spending	public expenditure	4
+government spending	public finance	4
+government spending	government budget	4
+government spending	government waste	4
+government spending	fiscal policy	4
+government spending	tax	4
+government spending	mandatory spending	4
+government spending	taxpayer groups	4
+government spending	eurostat	4
+government spending	government spending in the united kingdom	4
+government spending	government spending in the united states	4
+government budget deficit	current account	4
+government budget deficit	fiscal policy	4
+government budget deficit	generational accounting	4
+government budget deficit	government budget	4
+government budget deficit	public finance	4
+government budget deficit	sectoral balances	4
+government budget deficit	deficit hawk	4
+government budget deficit	fiscal policy of the united states	4
+government budget deficit	national debt of the united states	4
+government budget deficit	national debt by u.s. presidential terms	4
+government budget deficit	starve the beast	4
+government budget deficit	taxation in the united states	4
+government budget deficit	united states federal budget	4
+government bond	consol (bond)	4
+government bond	foreign exchange reserves of the people's republic of china	4
+government bond	government debt	4
+government bond	municipal bond	4
+government bond	treasury	4
+government bond	war bonds	4
+government bond	bond market	4
+government bond	zero-coupon bond	4
+government bond	market risk	4
+government bond	secondary market	4
+debt crisis	debt	4
+debt crisis	debt of developing countries	4
+debt crisis	government debt	4
+debt crisis	monetary sovereignty	4
+debt crisis	sovereign default	4
+debt crisis	state (polity)	4
+debt crisis	tax	4
+downshifting (lifestyle)	anti-consumerism	4
+downshifting (lifestyle)	conspicuous consumption	4
+downshifting (lifestyle)	degrowth	4
+downshifting (lifestyle)	eco-communalism	4
+downshifting (lifestyle)	ecological economics	4
+downshifting (lifestyle)	ecovillage	4
+downshifting (lifestyle)	ethical consumerism	4
+downshifting (lifestyle)	fire movement	4
+downshifting (lifestyle)	frugality	4
+downshifting (lifestyle)	homesteading	4
+downshifting (lifestyle)	intentional community	4
+downshifting (lifestyle)	intentional living	4
+downshifting (lifestyle)	permaculture	4
+downshifting (lifestyle)	simple living	4
+downshifting (lifestyle)	slow living	4
+downshifting (lifestyle)	slow movement (culture)	4
+downshifting (lifestyle)	sustainable living	4
+downshifting (lifestyle)	transition town	4
+downshifting (lifestyle)	workaholic	4
+simple living	affluenza	4
+simple living	asceticism	4
+simple living	anti-consumerism	4
+simple living	black bear ranch	4
+simple living	corporate poverty	4
+simple living	deep ecology	4
+simple living	degrowth	4
+simple living	eye of a needle	4
+simple living	epicureanism	4
+simple living	homesteading	4
+simple living	intentional living	4
+simple living	jesus and the rich young man	4
+simple living	tiny house movement	4
+pensions crisis	criticisms of welfare	3
+pensions crisis	demographic window	3
+pensions crisis	dependency ratio	3
+pensions crisis	generational accounting	3
+pensions crisis	jeremy gold	3
+pensions crisis	pension	3
+pensions crisis	public debt	3
+pensions crisis	retirement plan	3
+pensions crisis	social security debate (united states)	3
+pensions crisis	social security (united states)	3
+pensions crisis	sub-replacement fertility	3
+social welfare provision	basic income	4
+social welfare provision	bet tzedek legal services – the house of justice	4
+social welfare provision	cloward–piven strategy	4
+social welfare provision	commission on social welfare	4
+social welfare provision	human poverty index	4
+social welfare provision	lerman ratio	4
+social welfare provision	poverty reduction	4
+social welfare provision	right to an adequate standard of living	4
+social welfare provision	right to social security	4
+social welfare provision	social democracy	4
+social welfare provision	social liberalism	4
+social welfare provision	unemployment benefits	4
+social welfare provision	welfare's effect on poverty	4
+social welfare provision	welfare reform	4
+social welfare provision	welfare trap	4
+social welfare provision	workfare	4
+wealth (economics)	gross national happiness	4
+wealth (economics)	happiness economics	4
+wealth (economics)	productivity improving technologies (historical)	4
+wealth (economics)	quality of life	4
+wealth (economics)	working time	4
+sub-replacement fertility	demography	4
+sub-replacement fertility	fertility and intelligence	4
+sub-replacement fertility	natalistic politics	4
+sub-replacement fertility	population decline	4
+sub-replacement fertility	population stabilization	4
+sub-replacement fertility	income and fertility	4
+sub-replacement fertility	dependency ratio	4
+sub-replacement fertility	economic collapse	4
+sub-replacement fertility	pensions crisis	4
+social security (united states)	401(k)	4
+social security (united states)	federal emergency relief administration	4
+social security (united states)	yung-ping chen	4
+social security (united states)	goldberg v. kelly	4
+social security (united states)	government operations	4
+social security (united states)	social security administration	4
+social security (united states)	carolyn w. colvin	4
+social security (united states)	michael j. astrue	4
+social security (united states)	health savings account	4
+social security (united states)	individual retirement account	4
+social security (united states)	national organization of social security claimants' representatives	4
+social security (united states)	ownership society	4
+social security (united states)	richardson v. perales	4
+social security (united states)	social security debate (united states)	4
+social security (united states)	steward machine company v. davis	4
+social security (united states)	supplemental security income	4
+social security debate (united states)	generational accounting	4
+social security debate (united states)	pensions crisis	4
+social security debate (united states)	social security (united states)	4
+social security debate (united states)	welfare's effect on poverty	4
+jeremy gold	pensions crisis	4
+demographic window	demographics 	4
+dependency ratio	demographic economics	4
+dependency ratio	economic collapse	4
+dependency ratio	employment-to-population ratio	4
+dependency ratio	generational accounting	4
+dependency ratio	pensions crisis	4
+dependency ratio	sub-replacement fertility	4
+dependency ratio	societal collapse	4
+dependency ratio	aging of europe	4
+dependency ratio	aging of japan	4
+criticisms of welfare	social democracy	4
+criticisms of welfare	disability fraud	4
+criticisms of welfare	moral hazard	4
+criticisms of welfare	nanny state	4
+criticisms of welfare	pensions crisis	4
+criticisms of welfare	state socialism (germany)	4
+criticisms of welfare	welfare capitalism	4
+criticisms of welfare	welfare culture	4
+criticisms of welfare	welfare fraud	4
+criticisms of welfare	welfare queen	4
+criticisms of welfare	welfare's effect on poverty	4
+fee-only financial advisor	collective investment scheme	3
+fee-only financial advisor	socially responsible investing	3
+fee-only financial advisor	robo-advisor	3
+distribution (economics)	median household income	4
+distribution (economics)	income quintiles	4
+distribution (economics)	household income in the united states	4
+distribution (economics)	personal income in the united states	4
+distribution (economics)	economic inequality	4
+distribution (economics)	income inequality metrics	4
+distribution (economics)	gini coefficient	4
+distribution (economics)	lorenz curve	4
+distribution (economics)	generational accounting	4
+distribution (economics)	good (economics and accounting)	4
+distribution (economics)	income distribution	4
+distribution (economics)	income	4
+distribution (economics)	distribution of wealth	4
+distribution (economics)	wealth concentration	4
+distribution (economics)	wealth	4
+distribution (economics)	classical economics	4
+distribution (economics)	marxian economics	4
+distribution (economics)	value product	4
+distribution (economics)	labour economics	4
+distribution (economics)	production function	4
+distribution (economics)	production theory basics	4
+distribution (economics)	welfare economics	4
+distribution (economics)	distributive justice	4
+distribution (economics)	justice (economics)	4
+distribution (economics)	social choice theory	4
+distribution (economics)	social welfare function	4
+financial advisor	collective investment scheme	3
+financial advisor	socially responsible investing	3
+financial advisor	robo-advisor	3
+elderly care	food preferences in older adults and seniors	3
+elderly care	gerontology	3
+elderly care	home automation for the elderly and disabled	3
+elderly care	transgenerational design	3
+whole life insurance	life insurance	3
+whole life insurance	permanent life insurance	3
+whole life insurance	theory of decreasing responsibility	3
+socially responsible investing	business ethics	4
+socially responsible investing	development impact bond	4
+socially responsible investing	community wind energy	4
+socially responsible investing	corporate social responsibility	4
+socially responsible investing	disinvestment	4
+socially responsible investing	eco-investing	4
+socially responsible investing	ethical banking	4
+socially responsible investing	fossil fuel divestment	4
+socially responsible investing	integrated reporting	4
+socially responsible investing	impact investing	4
+socially responsible investing	microfinance	4
+socially responsible investing	sharia investments	4
+socially responsible investing	social finance	4
+socially responsible investing	social impact bond	4
+socially responsible investing	social responsibility	4
+socially responsible investing	sustainable development	4
+socially responsible investing	terror-free investing	4
+socially responsible investing	vice fund	4
+socially responsible investing	blended value	4
+collective investment scheme	closed-end fund	4
+collective investment scheme	collective trust fund	4
+collective investment scheme	common fund	4
+collective investment scheme	fund derivative	4
+collective investment scheme	fund governance	4
+collective investment scheme	global assets under management	4
+collective investment scheme	independent financial adviser	4
+collective investment scheme	investment management	4
+collective investment scheme	mutual fund	4
+collective investment scheme	offshore investment	4
+collective investment scheme	open-end fund	4
+collective investment scheme	separately managed account	4
+collective investment scheme	specialized investment fund	4
+home automation for the elderly and disabled	assisted living	4
+home automation for the elderly and disabled	disability robot	4
+home automation for the elderly and disabled	domestic robot	4
+home automation for the elderly and disabled	elderly care	4
+home automation for the elderly and disabled	floor plan	4
+home automation for the elderly and disabled	house navigation system	4
+home automation for the elderly and disabled	gerontechnology	4
+home automation for the elderly and disabled	wikt:healthcare robot	4
+home automation for the elderly and disabled	home robot	4
+home automation for the elderly and disabled	indoor positioning system	4
+home automation for the elderly and disabled	roujin z	4
+home automation for the elderly and disabled	transgenerational design	4
+permanent life insurance	corporate-owned life insurance	4
+permanent life insurance	critical illness insurance	4
+permanent life insurance	economic capital	4
+permanent life insurance	estate planning	4
+permanent life insurance	false insurance claims	4
+permanent life insurance	general insurance	4
+permanent life insurance	internal revenue code section 79	4
+permanent life insurance	life expectancy	4
+permanent life insurance	pet insurance	4
+permanent life insurance	retirement plan	4
+permanent life insurance	return of premium life insurance	4
+permanent life insurance	segregated fund	4
+permanent life insurance	servicemembers' group life insurance	4
+permanent life insurance	term life insurance	4
+permanent life insurance	tontine	4
+food preferences in older adults and seniors	assisted living	4
+food preferences in older adults and seniors	centenarian	4
+food preferences in older adults and seniors	elderly care	4
+food preferences in older adults and seniors	food choice	4
+food preferences in older adults and seniors	food studies	4
+food preferences in older adults and seniors	illnesses related to poor nutrition	4
+food preferences in older adults and seniors	meals on wheels	4
+food preferences in older adults and seniors	nutrition	4
+food preferences in older adults and seniors	portion size	4
+food preferences in older adults and seniors	research into centenarians	4
+family income benefit insurance	life insurance	3
+family income benefit insurance	permanent life insurance	3
+family income benefit insurance	theory of decreasing responsibility	3
+family income benefit insurance	universal life insurance	3
+family income benefit insurance	variable universal life insurance	3
+family income benefit insurance	whole life insurance	3
+family income benefit insurance	internal revenue code section 79	3
+general insurance	insurance	4
+general insurance	outstanding claims reserves	4
+false insurance claims	federal bureau of investigation	4
+false insurance claims	florida division of insurance fraud	4
+false insurance claims	horse murders	4
+false insurance claims	split billing	4
+false insurance claims	united states postal inspection service	4
+estate planning	elder law (united states)	4
+estate planning	estate (law)	4
+estate planning	inheritance	4
+estate planning	probate	4
+estate planning	trusts law	4
+economic capital	asset allocation	4
+economic capital	basel i	4
+economic capital	basel ii	4
+economic capital	capital structure	4
+economic capital	financial risk management	4
+economic capital	financial services conglomerate	4
+economic capital	raroc	4
+economic capital	rorac	4
+economic capital	solvency ii	4
+critical illness insurance	life insurance	4
+critical illness insurance	total permanent disability insurance	4
+critical illness insurance	health insurance	4
+critical illness insurance	health insurance in the united states	4
+corporate-owned life insurance	h. h. holmes	4
+outstanding claims reserves	incurred but not reported	3
+outstanding claims reserves	chain-ladder method	3
+outstanding claims reserves	bornhuetter-ferguson method	3
+outstanding claims reserves	actuarial science	3
+insurance	agent of record	3
+insurance	earthquake insurance	3
+insurance	financial adviser	3
+insurance	financial services	3
+insurance	geneva association	3
+insurance	global assets under management	3
+insurance	insurance broker	3
+insurance	insurance fraud	3
+insurance	insurance hall of fame	3
+insurance	insurance law	3
+insurance	insurance premium tax (uk)	3
+insurance	loss-control consultant	3
+insurance	reinsurance	3
+insurance	risk pool	3
+insurance	the invisible bankers: everything the insurance industry never wanted you to know	3
+insurance	social security	3
+insurance	uberrima fides	3
+insurance	universal health care	3
+insurance	welfare state	3
+insurance	insurance in australia	3
+insurance	insurance in india	3
+insurance	insurance in the united states	3
+insurance	insurance in the united kingdom	3
+solvency ii	eu law	3
+solvency ii	european company law	3
+solvency ii	own risk and solvency assessment (orsa)	3
+raroc	enterprise risk management	3
+raroc	financial risk management	3
+raroc	omega ratio	3
+raroc	risk-return spectrum	3
+raroc	sharpe ratio	3
+raroc	sortino ratio	3
+raroc	risk return ratio	3
+financial services conglomerate	alternative financial services	3
+financial services conglomerate	financial analyst	3
+financial services conglomerate	financial crime	3
+financial services conglomerate	financial data vendors	3
+financial services conglomerate	financial markets	3
+financial services conglomerate	financial technology	3
+financial services conglomerate	financialization	3
+financial services conglomerate	insider threat	3
+financial services conglomerate	international monetary fund	3
+financial services conglomerate	valuation (finance) 	3
+insurance in the united kingdom	insurance in the united states	4
+insurance in the united kingdom	insurance in australia	4
+insurance in the united states	health insurance in the united states	4
+insurance in the united states	insurance regulatory information system	4
+insurance in the united states	mccarran-ferguson act	4
+insurance in the united states	national association of insurance commissioners	4
+insurance in the united states	travel insurance	4
+insurance in the united states	casualty insurance	4
+insurance in the united states	health insurance	4
+insurance in the united states	history of insurance	4
+insurance in the united states	insurance	4
+insurance in the united states	life insurance	4
+own risk and solvency assessment (orsa)	solvency ii directive	4
+own risk and solvency assessment (orsa)	risk management	4
+own risk and solvency assessment (orsa)	french prudential supervisory authority	4
+own risk and solvency assessment (orsa)	basel ii	4
+international monetary fund	brics development bank	4
+international monetary fund	bank for international settlements	4
+international monetary fund	conditionality	4
+international monetary fund	globalization	4
+international monetary fund	group of thirty	4
+international monetary fund	group of ten (economics)	4
+international monetary fund	international financial institutions	4
+international monetary fund	smithsonian agreement	4
+international monetary fund	world bank residual model	4
+valuation (finance) 	applied information economics	4
+valuation (finance) 	asset price inflation	4
+valuation (finance) 	business valuation	4
+valuation (finance) 	business valuation standard	4
+valuation (finance) 	depreciation	4
+valuation (finance) 	earnings response coefficient	4
+valuation (finance) 	efficient-market hypothesis	4
+valuation (finance) 	equity investment	4
+valuation (finance) 	fundamental analysis	4
+valuation (finance) 	intellectual property valuation	4
+valuation (finance) 	investment management	4
+valuation (finance) 	lipper average	4
+valuation (finance) 	market-based valuation	4
+valuation (finance) 	paper valuation	4
+valuation (finance) 	patent valuation	4
+valuation (finance) 	present value	4
+valuation (finance) 	pricing	4
+valuation (finance) 	real estate appraisal	4
+valuation (finance) 	stock valuation	4
+valuation (finance) 	price discovery	4
+valuation (finance) 	real options valuation	4
+valuation (finance) 	technical analysis	4
+valuation (finance) 	terminal value (finance)	4
+valuation (finance) 	enterprise value	4
+valuation (finance) 	sum-of-the-parts analysis	4
+valuation (finance) 	minority discount	4
+valuation (finance) 	control premium	4
+valuation (finance) 	capital asset pricing model	4
+valuation (finance) 	arbitrage pricing theory	4
+valuation (finance) 	black–scholes	4
+valuation (finance) 	option (finance)	4
+valuation (finance) 	fuzzy pay-off method for real option valuation	4
+valuation (finance) 	single-index model	4
+valuation (finance) 	markov switching multifractal	4
+valuation (finance) 	multiple factor models	4
+valuation (finance) 	chepakovich valuation model	4
+insider threat	computer security	4
+insider threat	insider threat management	4
+insider threat	mole (espionage)	4
+insider threat	naval criminal investigative service	4
+insider threat	threat (computer)	4
+financialization	capital control	4
+financialization	derivative (finance)	4
+financialization	economic rent	4
+financialization	financial crisis of 2007–2010	4
+financialization	financial capital	4
+financialization	financial economics	4
+financialization	fire economy	4
+financialization	foreign exchange trading	4
+financialization	economic sociology	4
+financialization	late capitalism	4
+financialization	neoliberalism	4
+financialization	shadow banking system	4
+financialization	tech bubble	4
+financial crime	black market	4
+financial crime	credit card fraud	4
+financial crime	financial crimes enforcement network	4
+financial crime	financing of terrorism	4
+financial crime	fraud	4
+financial crime	greenmail	4
+financial crime	grey market	4
+financial crime	mafia	4
+financial crime	money laundering	4
+financial crime	organized crime	4
+financial crime	securities fraud	4
+financial crime	skimming (casinos)	4
+financial crime	skimming (fraud)	4
+financial crime	structuring	4
+financial crime	tax haven	4
+financial crime	white-collar crime	4
+financial crime	world bank residual model	4
+financial markets	finance capitalism	4
+financial markets	financial services	4
+financial markets	financial instrument	4
+financial markets	financial market efficiency	4
+financial markets	brownian model of financial markets	4
+financial markets	investment theory	4
+financial markets	quantitative behavioral finance	4
+financial markets	mathematical finance	4
+financial markets	stock investor	4
+financial markets	financial market theory of development	4
+financial markets	liquidity	4
+financial markets	cooperative banking	4
+financial analyst	accounting analyst	4
+financial analyst	credit analyst	4
+financial analyst	financial services	4
+financial analyst	quantitative analyst	4
+financial analyst	research report	4
+alternative financial services	poverty industry	4
+alternative financial services	loan shark	4
+alternative financial services	overdraft protection	4
+alternative financial services	payday loan	4
+alternative financial services	refund anticipation loan	4
+alternative financial services	settlement (finance)	4
+alternative financial services	title loan	4
+alternative financial services	usury	4
+alternative financial services	mortgage discrimination	4
+alternative financial services	securitization	4
+alternative financial services	debt bondage	4
+alternative financial services	debt of developing countries	4
+alternative financial services	informal value transfer system	4
+alternative financial services	guarantor loan	4
+sharpe ratio	bias ratio (finance)	4
+sharpe ratio	calmar ratio	4
+sharpe ratio	capital asset pricing model	4
+sharpe ratio	coefficient of variation	4
+sharpe ratio	hansen–jagannathan bound	4
+sharpe ratio	information ratio	4
+sharpe ratio	jensen's alpha	4
+sharpe ratio	modern portfolio theory	4
+sharpe ratio	omega ratio	4
+sharpe ratio	risk adjusted return on capital	4
+sharpe ratio	roy's safety-first criterion	4
+sharpe ratio	signal-to-noise ratio	4
+sharpe ratio	sortino ratio	4
+sharpe ratio	sterling ratio	4
+sharpe ratio	treynor ratio	4
+sharpe ratio	upside potential ratio	4
+sharpe ratio	v2 ratio	4
+sharpe ratio	z score	4
+risk-return spectrum	modern portfolio theory	4
+risk-return spectrum	risk	4
+risk-return spectrum	financial capital	4
+risk-return spectrum	investment	4
+risk-return spectrum	credit (finance)	4
+risk-return spectrum	interest	4
+risk-return spectrum	ownership equity	4
+risk-return spectrum	profit (economics)	4
+risk-return spectrum	leverage (finance)	4
+sortino ratio	modern portfolio theory	4
+sortino ratio	modigliani risk-adjusted performance	4
+sortino ratio	omega ratio	4
+sortino ratio	post-modern portfolio theory	4
+sortino ratio	sharpe ratio	4
+sortino ratio	upside potential ratio	4
+sortino ratio	v2 ratio	4
+omega ratio	modern portfolio theory	4
+omega ratio	post-modern portfolio theory	4
+omega ratio	sharpe ratio	4
+omega ratio	sortino ratio	4
+omega ratio	upside potential ratio	4
+financial risk management	asset liability management	4
+financial risk management	cash management	4
+financial risk management	cash flow hedge	4
+financial risk management	corporate governance	4
+financial risk management	credit risk	4
+financial risk management	default (finance)	4
+financial risk management	enterprise risk management	4
+financial risk management	financial risk	4
+financial risk management	financial engineering	4
+financial risk management	foreign exchange hedge	4
+financial risk management	interest rate risk	4
+financial risk management	insurance	4
+financial risk management	investment risk	4
+financial risk management	liquidity risk	4
+financial risk management	market risk	4
+financial risk management	operational risk	4
+financial risk management	risk adjusted return on capital	4
+financial risk management	risk modeling	4
+financial risk management	risk pool	4
+financial risk management	settlement risk	4
+financial risk management	treasury management	4
+financial risk management	value at risk	4
+financial risk management	volatility risk	4
+financial risk management	american risk and insurance association	4
+financial risk management	association of insurance and risk managers in industry and commerce	4
+financial risk management	professional risk managers' international association	4
+financial risk management	risk and insurance management society	4
+financial risk management	certified risk analyst	4
+financial risk management	chartered enterprise risk analyst	4
+financial risk management	society of actuaries	4
+financial risk management	financial risk manager	4
+financial risk management	institute and faculty of actuaries	4
+financial risk management	professional risk manager	4
+enterprise risk management	actuarial science	4
+enterprise risk management	airmic	4
+enterprise risk management	basel iii	4
+enterprise risk management	benefit risk	4
+enterprise risk management	committee of sponsoring organizations of the treadway commission	4
+enterprise risk management	cost risk	4
+enterprise risk management	credit risk	4
+enterprise risk management	information quality management	4
+enterprise risk management	iso 31000	4
+enterprise risk management	market risk	4
+enterprise risk management	operational risk management	4
+enterprise risk management	optimism bias	4
+enterprise risk management	risk adjusted return on capital	4
+enterprise risk management	risk appetite	4
+enterprise risk management	risk management tools	4
+enterprise risk management	risklab	4
+enterprise risk management	isa 400 risk assessments and internal control	4
+enterprise risk management	sox 404 top-down risk assessment	4
+enterprise risk management	total security management	4
+enterprise risk management	web presence management	4
+european company law	uk company law	4
+european company law	european union shipping law	4
+european company law	german company law	4
+european company law	us corporate law	4
+european company law	swiss referendum "against corporate rip-offs" of 2013	4
+eu law	area of freedom, security and justice	4
+eu law	community patent	4
+eu law	corpus juris	4
+eu law	acquis	4
+eu law	directive 95/46/ec on the protection of personal data	4
+eu law	eudralex	4
+eu law	eur-lex	4
+eu law	european case law identifier	4
+eu law	european legislation identifier	4
+eu law	european navigator	4
+eu law	home state regulation	4
+eu law	host state regulation	4
+eu law	incidental effect	4
+eu law	master of european law	4
+eu law	maximum harmonisation	4
+eu law	minimum harmonisation	4
+eu law	precautionary principle	4
+eu law	principle of proportionality	4
+insurance in india	life insurance in india	4
+insurance in india	agricultural insurance in india	4
+insurance in india	rashtriya swasthya bima yojana	4
+insurance in india	aam aadmi bima yojana	4
+insurance in india	pradhan mantri suraksha bima yojana	4
+insurance in australia	financial system in australia	4
+insurance in australia	australian insurance law	4
+insurance in australia	margin on services	4
+insurance in australia	royal commission into misconduct in the banking, superannuation and financial services industry	4
+uberrima fides	adverse selection	4
+universal health care	global health	4
+universal health care	healthcare reform debate in the united states	4
+universal health care	health insurance cooperative	4
+universal health care	national health insurance	4
+universal health care	primary healthcare	4
+universal health care	public health	4
+universal health care	publicly funded health care	4
+universal health care	right to health	4
+universal health care	single-payer healthcare	4
+universal health care	socialized medicine	4
+universal health care	two-tier healthcare	4
+the invisible bankers: everything the insurance industry never wanted you to know	the only investment guide you'll ever need	4
+the invisible bankers: everything the insurance industry never wanted you to know	the bankers	4
+the invisible bankers: everything the insurance industry never wanted you to know	martin mayer (writer)	4
+risk pool	health insurance in the united states	4
+reinsurance	assumption reinsurance	4
+reinsurance	catastrophe bond	4
+reinsurance	catastrophe modeling	4
+reinsurance	financial reinsurance	4
+reinsurance	industry loss warranties	4
+reinsurance	international society of catastrophe managers	4
+reinsurance	securitization	4
+reinsurance	reinsurance sidecar	4
+reinsurance	stop-loss insurance	4
+insurance premium tax (uk)	financial services	4
+insurance premium tax (uk)	financial conduct authority	4
+insurance premium tax (uk)	hm revenue & customs	4
+insurance premium tax (uk)	insurance	4
+insurance premium tax (uk)	tax	4
+insurance law	international association of insurance supervisors	4
+insurance law	insurance broker	4
+insurance law	insurance agent	4
+insurance law	agent of record	4
+insurance law	australian insurance law	4
+insurance law	financial conduct authority	4
+insurance law	national association of insurance commissioners	4
+insurance fraud	federal bureau of investigation	4
+insurance fraud	florida division of insurance fraud	4
+insurance fraud	horse murders	4
+insurance fraud	split billing	4
+insurance fraud	united states postal inspection service	4
+insurance broker	financial adviser	4
+insurance broker	loss-control consultant	4
+global assets under management	assets under management	4
+earthquake insurance	earthquake commission	4
+earthquake insurance	earthquake engineering	4
+earthquake insurance	earthquake simulation	4
+earthquake insurance	global earthquake model	4
+earthquake insurance	seismic retrofit	4
+financial adviser	collective investment scheme	4
+financial adviser	socially responsible investing	4
+financial adviser	robo-advisor	4
+financial services	alternative financial services	4
+financial services	financial analyst	4
+financial services	financial crime	4
+financial services	financial data vendors	4
+financial services	financial markets	4
+financial services	financial technology	4
+financial services	financialization	4
+financial services	insider threat	4
+financial services	international monetary fund	4
+financial services	valuation (finance) 	4
+agent of record	insurance law	4
+agent of record	principle of legality	4
+bornhuetter-ferguson method	loss reserving	4
+chain-ladder method	incurred but not reported	4
+chain-ladder method	loss reserving	4
+chain-ladder method	bornhuetter–ferguson method	4
+incurred but not reported	loss reserving	4
+incurred but not reported	actuarial science	4
+professional risk manager	american risk and insurance association	4
+professional risk manager	asia risk management institute	4
+professional risk manager	association of insurance and risk managers in industry and commerce	4
+professional risk manager	risk and insurance management society	4
+professional risk manager	certified compliance risk officer	4
+professional risk manager	certified enterprise-wide risk manager	4
+professional risk manager	certified professional risk manager	4
+professional risk manager	certified project risk planner	4
+professional risk manager	certified risk analyst	4
+professional risk manager	certified risk manager	4
+professional risk manager	institute and faculty of actuaries	4
+professional risk manager	chartered enterprise risk analyst	4
+professional risk manager	society of actuaries	4
+professional risk manager	financial risk manager	4
+professional risk manager	institute of risk management	4
+professional risk manager	enterprise risk management	4
+financial risk manager	asset liability management	4
+financial risk manager	cash management	4
+financial risk manager	cash flow hedge	4
+financial risk manager	corporate governance	4
+financial risk manager	credit risk	4
+financial risk manager	default (finance)	4
+financial risk manager	enterprise risk management	4
+financial risk manager	financial risk	4
+financial risk manager	financial engineering	4
+financial risk manager	foreign exchange hedge	4
+financial risk manager	interest rate risk	4
+financial risk manager	insurance	4
+financial risk manager	investment risk	4
+financial risk manager	liquidity risk	4
+financial risk manager	market risk	4
+financial risk manager	operational risk	4
+financial risk manager	risk adjusted return on capital	4
+financial risk manager	risk modeling	4
+financial risk manager	risk pool	4
+financial risk manager	settlement risk	4
+financial risk manager	treasury management	4
+financial risk manager	value at risk	4
+financial risk manager	volatility risk	4
+financial risk manager	american risk and insurance association	4
+financial risk manager	association of insurance and risk managers in industry and commerce	4
+financial risk manager	professional risk managers' international association	4
+financial risk manager	risk and insurance management society	4
+financial risk manager	certified risk analyst	4
+financial risk manager	chartered enterprise risk analyst	4
+financial risk manager	society of actuaries	4
+financial risk manager	institute and faculty of actuaries	4
+financial risk manager	professional risk manager	4
+society of actuaries	american academy of actuaries	4
+society of actuaries	casualty actuarial society	4
+chartered enterprise risk analyst	american academy of actuaries	4
+chartered enterprise risk analyst	casualty actuarial society	4
+certified risk analyst	chartered financial analyst	4
+certified risk analyst	institute and faculty of actuaries	4
+certified risk analyst	chartered enterprise risk analyst	4
+certified risk analyst	society of actuaries	4
+certified risk analyst	financial risk manager	4
+certified risk analyst	professional risk manager	4
+certified risk analyst	association of insurance and risk managers in industry and commerce	4
+certified risk analyst	professional risk managers' international association	4
+certified risk analyst	risk and insurance management society	4
+risk and insurance management society	american risk and insurance association	4
+risk and insurance management society	association of insurance and risk managers in industry and commerce	4
+risk and insurance management society	professional risk managers' international association	4
+risk and insurance management society	certified risk analyst	4
+risk and insurance management society	chartered enterprise risk analyst	4
+risk and insurance management society	financial risk manager	4
+risk and insurance management society	professional risk manager	4
+professional risk managers' international association	american risk and insurance association	4
+professional risk managers' international association	asia risk management institute	4
+professional risk managers' international association	association of insurance and risk managers in industry and commerce	4
+professional risk managers' international association	risk and insurance management society	4
+professional risk managers' international association	certified compliance risk officer	4
+professional risk managers' international association	certified enterprise-wide risk manager	4
+professional risk managers' international association	certified professional risk manager	4
+professional risk managers' international association	certified project risk planner	4
+professional risk managers' international association	certified risk analyst	4
+professional risk managers' international association	certified risk manager	4
+professional risk managers' international association	institute and faculty of actuaries	4
+professional risk managers' international association	chartered enterprise risk analyst	4
+professional risk managers' international association	society of actuaries	4
+professional risk managers' international association	financial risk manager	4
+professional risk managers' international association	institute of risk management	4
+professional risk managers' international association	enterprise risk management	4
+american risk and insurance association	association of insurance and risk managers in industry and commerce	4
+american risk and insurance association	professional risk managers' international association	4
+american risk and insurance association	risk and insurance management society	4
+association of insurance and risk managers in industry and commerce	american risk and insurance association	4
+association of insurance and risk managers in industry and commerce	professional risk managers' international association	4
+association of insurance and risk managers in industry and commerce	risk and insurance management society	4
+volatility risk	derivative	4
+volatility risk	implied volatility	4
+volatility risk	market risk	4
+volatility risk	risk management	4
+volatility risk	standard deviation	4
+volatility risk	value at risk	4
+volatility risk	volatility risk premium	4
+value at risk	capital adequacy directive	4
+value at risk	conditional value-at-risk	4
+value at risk	cyber risk quantification	4
+value at risk	extended mathematical programming (emp)	4
+value at risk	entropic value at risk	4
+value at risk	profit at risk	4
+value at risk	margin at risk	4
+value at risk	liquidity at risk	4
+value at risk	risk return ratio	4
+value at risk	valuation risk	4
+risk adjusted return on capital	enterprise risk management	4
+risk adjusted return on capital	financial risk management	4
+risk adjusted return on capital	omega ratio	4
+risk adjusted return on capital	risk-return spectrum	4
+risk adjusted return on capital	sharpe ratio	4
+risk adjusted return on capital	sortino ratio	4
+risk adjusted return on capital	risk return ratio	4
+risk modeling	black-scholes model	4
+risk modeling	financial risk management	4
+risk modeling	knightian uncertainty	4
+risk modeling	financial modeling	4
+risk modeling	value at risk	4
+market risk	systemic risk	4
+market risk	cost risk	4
+market risk	demand risk	4
+market risk	risk modeling	4
+market risk	risk attitude	4
+market risk	modern portfolio theory	4
+market risk	risk return ratio	4
+market risk	frtb	4
+market risk	internal models approach (market risk)	4
+market risk	standardized approach (market risk)	4
+operational risk	crisis management	4
+operational risk	institute of operational risk	4
+operational risk	the journal of operational risk	4
+operational risk	key risk indicator	4
+operational risk	operational risk management	4
+operational risk	risk management	4
+operational risk	risk management tools	4
+operational risk	risk modeling	4
+operational risk	volatility (finance)	4
+investment risk	beta (finance)	4
+investment risk	capital asset pricing model	4
+investment risk	cost of capital	4
+investment risk	downside beta	4
+investment risk	downside risk	4
+investment risk	insurance	4
+investment risk	macro risk	4
+investment risk	modern portfolio theory	4
+investment risk	optimism bias	4
+investment risk	reinvestment risk	4
+investment risk	risk attitude	4
+investment risk	risk measure	4
+investment risk	risk premium	4
+investment risk	risklab	4
+investment risk	systemic risk	4
+investment risk	upside beta	4
+investment risk	upside risk	4
+investment risk	value at risk	4
+foreign exchange hedge	cash flow hedge	4
+foreign exchange hedge	fasb 133	4
+foreign exchange hedge	hedge accounting	4
+foreign exchange hedge	ias 39	4
+financial engineering	actuarial science	4
+financial engineering	computational finance	4
+financial engineering	financial modeling	4
+financial engineering	mathematical finance	4
+financial engineering	master of financial engineering	4
+financial engineering	quantitative analyst	4
+financial engineering	quantlib	4
+financial risk	beta (finance)	4
+financial risk	capital asset pricing model	4
+financial risk	cost of capital	4
+financial risk	downside beta	4
+financial risk	downside risk	4
+financial risk	insurance	4
+financial risk	macro risk	4
+financial risk	modern portfolio theory	4
+financial risk	optimism bias	4
+financial risk	reinvestment risk	4
+financial risk	risk attitude	4
+financial risk	risk measure	4
+financial risk	risk premium	4
+financial risk	risklab	4
+financial risk	systemic risk	4
+financial risk	upside beta	4
+financial risk	upside risk	4
+financial risk	value at risk	4
+credit risk	credit (finance)	4
+credit risk	default (finance)	4
+credit risk	jarrow–turnbull model	4
+credit risk	merton model	4
+corporate governance	agency cost	4
+corporate governance	basel ii	4
+corporate governance	corporate law economic reform program act 2004	4
+corporate governance	corporate social entrepreneurship	4
+corporate governance	corporate transparency	4
+corporate governance	creative accounting	4
+corporate governance	earnings management	4
+corporate governance	fund governance	4
+corporate governance	golden parachute	4
+corporate governance	international organization of supreme audit institutions	4
+corporate governance	king report on corporate governance	4
+corporate governance	legal origins theory	4
+corporate governance	private benefits of control	4
+corporate governance	risk management	4
+corporate governance	social ownership	4
+corporate governance	sociocracy	4
+corporate governance	stakeholder theory	4
+cash flow hedge	hedge accounting	4
+cash flow hedge	accumulated other comprehensive income	4
+cash flow hedge	statement of changes in equity	4
+asset liability management	treasury management	4
+asset liability management	liquidity risk	4
+asset liability management	interest rate risk	4
+capital structure	discounted cash flow	3
+capital structure	enterprise value	3
+capital structure	financial modeling	3
+capital structure	financial economics	3
+capital structure	weighted average cost of capital	3
+capital structure	hamada's equation	3
+basel ii	basel ia	3
+basel ii	basel iii	3
+basel ii	capital adequacy	3
+basel ii	credit risk	3
+basel ii	market risk	3
+basel ii	operational risk	3
+basel ii	solvency ii	3
+basel i	basel accords	3
+basel i	basel ia	3
+basel i	basel ii	3
+basel i	basel iii	3
+trusts law	blind trust	3
+trusts law	foundation (charity)	3
+trusts law	rabbi trust	3
+trusts law	step (society of trust and estate practitioners)	3
+trusts law	totten trust	3
+trusts law	trusts & estates (journal)	3
+trusts law	use (law)	3
+trusts law	argentinian legal system	3
+trusts law	australian trust law	3
+trusts law	henson trust	3
+trusts law	italian trust law	3
+trusts law	trust law in civil law jurisdictions	3
+trusts law	trust law in england and wales	3
+asset allocation	asset location	3
+asset allocation	economic capital	3
+asset allocation	efficient-market hypothesis	3
+asset allocation	performance attribution	3
+basel iii	basel i	4
+basel iii	basel ii	4
+basel iii	basel iv	4
+basel iii	operational risk	4
+basel iii	operational risk management	4
+basel iii	systemically important financial institution	4
+performance attribution	investment management	4
+performance attribution	portfolio (finance)	4
+performance attribution	fama–french three-factor model	4
+performance attribution	modified dietz method	4
+performance attribution	fixed income attribution	4
+efficient-market hypothesis	adaptive market hypothesis	4
+efficient-market hypothesis	financial market efficiency	4
+efficient-market hypothesis	dumb agent theory	4
+efficient-market hypothesis	index fund	4
+efficient-market hypothesis	insider trading	4
+efficient-market hypothesis	investment theory	4
+efficient-market hypothesis	noisy market hypothesis	4
+efficient-market hypothesis	perfect market	4
+efficient-market hypothesis	transparency (market)	4
+asset location	asset allocation	4
+asset location	income tax	4
+asset location	personal finance	4
+trust law in england and wales	trust law	4
+trust law in england and wales	united states trust law	4
+trust law in england and wales	trust law in civil law jurisdictions	4
+trust law in england and wales	taxation in the united kingdom	4
+trust law in england and wales	uk insolvency law	4
+trust law in england and wales	uk company law	4
+trust law in england and wales	indian trusts act 1882	4
+trust law in england and wales	offshore trust	4
+trust law in england and wales	joint wills and mutual wills	4
+italian trust law	trust law	4
+argentinian legal system	legal systems of the world	4
+argentinian legal system	politics of argentina	4
+use (law)	conveyancing	4
+use (law)	harm	4
+totten trust	purpose trust	4
+foundation (charity)	financial endowment	4
+foundation (charity)	charitable trust	4
+foundation (charity)	program evaluation	4
+foundation (charity)	think tank	4
+foundation (charity)	nongovernmental organization	4
+foundation (charity)	international nongovernmental organization	4
+rabbi trust	457 plan	4
+rabbi trust	internal revenue code section 61	4
+rabbi trust	crummey trust	4
+basel accords	basel i	4
+basel accords	basel ia	4
+basel accords	basel ii	4
+basel accords	basel iii	4
+capital adequacy	basel ii	4
+capital adequacy	basel iii	4
+capital adequacy	reserve requirement	4
+capital adequacy	capital adequacy ratio	4
+capital adequacy	xva	4
+weighted average cost of capital	beta (finance)	4
+weighted average cost of capital	capital asset pricing model	4
+weighted average cost of capital	cost of capital	4
+weighted average cost of capital	discounted cash flow	4
+weighted average cost of capital	economic value added	4
+weighted average cost of capital	hamada's equation	4
+weighted average cost of capital	internal rate of return	4
+weighted average cost of capital	minimum acceptable rate of return	4
+weighted average cost of capital	modigliani–miller theorem	4
+weighted average cost of capital	net present value	4
+weighted average cost of capital	opportunity cost	4
+financial modeling	asset pricing model	4
+financial modeling	economic model	4
+financial modeling	financial engineering	4
+financial modeling	financial forecast	4
+financial modeling	financial modelers' manifesto	4
+financial modeling	financial models with long-tailed distributions and volatility clustering	4
+financial modeling	financial planning	4
+financial modeling	integrated business planning	4
+financial modeling	model audit	4
+financial modeling	modeling and analysis of financial markets	4
+financial modeling	pro forma	4
+financial modeling	profit model	4
+financial modeling	real options valuation	4
+financial economics	deutsche bank prize in financial economics	4
+financial economics	economic model	4
+financial economics	financial modeling	4
+financial economics	fischer black prize	4
+financial economics	monetary economics	4
+financial economics	quantitative analyst 	4
+enterprise value	discounted cash flow	4
+enterprise value	capital structure	4
+enterprise value	weighted average cost of capital	4
+enterprise value	social accounting	4
+enterprise value	residual income valuation	4
+discounted cash flow	adjusted present value	4
+discounted cash flow	capital asset pricing model	4
+discounted cash flow	capital budgeting	4
+discounted cash flow	cost of capital	4
+discounted cash flow	debt cash flow	4
+discounted cash flow	economic value added	4
+discounted cash flow	enterprise value	4
+discounted cash flow	financial modeling	4
+discounted cash flow	flows to equity	4
+discounted cash flow	forecast period (finance)	4
+discounted cash flow	free cash flow	4
+discounted cash flow	internal rate of return	4
+discounted cash flow	market value added	4
+discounted cash flow	net present value	4
+discounted cash flow	patent valuation	4
+discounted cash flow	residual income valuation	4
+discounted cash flow	terminal value (finance)	4
+discounted cash flow	time value of money	4
+discounted cash flow	valuation using discounted cash flows	4
+discounted cash flow	weighted average cost of capital	4
+probate	inheritance	3
+probate	national probate calendar	3
+inheritance	beneficiary	3
+inheritance	digital inheritance	3
+inheritance	family law	3
+inheritance	inheritance law in canada	3
+inheritance	transformative asset	3
+estate (law)	inheritance tax	3
+estate (law)	estate tax in the united states	3
+estate (law)	estate planning	3
+estate (law)	literary executor	3
+elder law (united states)	elder rights	3
+elder law (united states)	gerontology	3
+elder law (united states)	nursing home residents' rights	3
+united states postal inspection service	2001 anthrax attacks	3
+united states postal inspection service	anthony comstock	3
+united states postal inspection service	diplomatic security service	3
+united states postal inspection service	federal bureau of investigation	3
+united states postal inspection service	federal law enforcement in the united states	3
+united states postal inspection service	the inspectors (tv series)	3
+united states postal inspection service	letter bomb	3
+united states postal inspection service	mobile mail-screening station	3
+united states postal inspection service	plymouth mail robbery	3
+united states postal inspection service	white-collar crime	3
+elder rights	activist ageing	4
+elder rights	age concern	4
+elder rights	elder abuse	4
+elder rights	elder law in india	4
+elder rights	elder law (united states)	4
+elder rights	elder law (massachusetts)	4
+elder rights	nursing home residents' rights	4
+literary executor	digital inheritance	4
+nursing home residents' rights	elder rights	4
+white-collar crime	accounting scandals	4
+white-collar crime	confidence trick	4
+white-collar crime	corporate crime	4
+white-collar crime	fbi	4
+white-collar crime	franchise fraud	4
+white-collar crime	fraud	4
+white-collar crime	immigration and customs enforcement	4
+white-collar crime	industrial espionage	4
+white-collar crime	interpol	4
+white-collar crime	irs criminal investigation division	4
+white-collar crime	money laundering	4
+white-collar crime	mortgage fraud	4
+white-collar crime	office of criminal investigations	4
+white-collar crime	organi-cultural deviance	4
+white-collar crime	organized crime	4
+white-collar crime	penny stock scam	4
+white-collar crime	sarbanes–oxley act	4
+white-collar crime	securities and exchange commission	4
+white-collar crime	securities fraud	4
+white-collar crime	terrorist financing	4
+white-collar crime	united states marshals service	4
+white-collar crime	united states postal inspection service	4
+white-collar crime	united states secret service	4
+white-collar crime	public criminology	4
+letter bomb	bioterrorism	4
+letter bomb	bomb threat	4
+letter bomb	email bomb	4
+letter bomb	luke helder	4
+letter bomb	pipe bomb	4
+federal law enforcement in the united states	law enforcement in the united states	4
+federal bureau of investigation	law enforcement in the united states	4
+federal bureau of investigation	federal law enforcement in the united states	4
+federal bureau of investigation	bureau of alcohol, tobacco, firearms and explosives	4
+federal bureau of investigation	u.s. customs and border protection	4
+federal bureau of investigation	diplomatic security service	4
+federal bureau of investigation	drug enforcement administration	4
+federal bureau of investigation	u.s. immigration and customs enforcement	4
+federal bureau of investigation	united states marshals service	4
+federal bureau of investigation	united states secret service	4
+federal bureau of investigation	state bureau of investigation	4
+federal bureau of investigation	society of former special agents of the federal bureau of investigation	4
+federal bureau of investigation	fbi victims identification project	4
+federal bureau of investigation	history of espionage	4
+federal bureau of investigation	fbi honorary medals	4
+federal bureau of investigation	inspector	4
+diplomatic security service	bureau of diplomatic security bibliography	4
+diplomatic security service	europol	4
+diplomatic security service	federal protective service (russia)	4
+diplomatic security service	state visits	4
+diplomatic security service	mobile security deployment	4
+diplomatic security service	office of the inspector general of the department of state	4
+diplomatic security service	parliamentary and diplomatic protection	4
+diplomatic security service	united states border patrol	4
+diplomatic security service	marine security guard	4
+diplomatic security service	united states army counterintelligence	4
+diplomatic security service	air force office of special investigations	4
+diplomatic security service	naval criminal investigative service	4
+diplomatic security service	united states army criminal investigation command	4
+diplomatic security service	coast guard investigative service	4
+anthony comstock	birth control movement in the united states	4
+anthony comstock	comstock act	4
+anthony comstock	new york society for the suppression of vice	4
+anthony comstock	jack thompson (activist)	4
+estate tax in the united states	lyeth v. hoey	4
+2001 anthrax attacks	1984 rajneeshee bioterror attack	4
+2001 anthrax attacks	2003 ricin letters	4
+2001 anthrax attacks	april 2013 ricin letters	4
+2001 anthrax attacks	austin serial bombings	4
+2001 anthrax attacks	anthrax war	4
+2001 anthrax attacks	centers for disease control	4
+2001 anthrax attacks	domestic terrorism in the united states	4
+2001 anthrax attacks	health crisis	4
+2001 anthrax attacks	irradiated mail	4
+2001 anthrax attacks	october 2018 united states mail bombing attempts	4
+inheritance tax	property tax	4
+transformative asset	race and inequality in the united states	4
+family law	alimony	4
+family law	child custody	4
+family law	child support	4
+family law	divorce	4
+family law	family	4
+family law	family court	4
+family law	legal separation	4
+family law	legitimacy (family law)	4
+family law	marriage	4
+family law	merger doctrine (family law)	4
+family law	shared parenting	4
+family law	supervised visitation	4
+family law	algerian family code	4
+family law	family court of australia	4
+family law	australian family law	4
+family law	family law act (ontario)	4
+family law	california child actor's bill	4
+family law	family law system in england and wales	4
+family law	children act 1989	4
+family law	malian family code	4
+family law	mudawana	4
+family law	morocco	4
+family law	civil code of the philippines	4
+family law	nashim	4
+family law	mishnah	4
+digital inheritance	death and the internet	4
+digital inheritance	executor	4
+digital inheritance	literary executor	4
+digital inheritance	online identity	4
+digital inheritance	trustee	4
+digital inheritance	will (law)	4
+beneficiary	beneficiary (trust)	4
+beneficiary	estate planning	4
+beneficiary	inheritance	4
+beneficiary	birth certificate	4
+beneficiary	legal fiction	4
+history of espionage	assassination	4
+history of espionage	cia in fiction	4
+history of espionage	espionage act of 1917	4
+history of espionage	intelligence agency	4
+history of espionage	special operations executive	4
+history of espionage	spy fiction	4
+history of espionage	united states government security breaches	4
+fbi victims identification project	fbi	4
+inspector	police rank	4
+inspector	detective	4
+inspector	special agent	4
+state bureau of investigation	brazilian civil police	4
+state bureau of investigation	landeskriminalamt	4
+united states secret service	title 31 of the code of federal regulations	4
+united states secret service	bodyguard	4
+united states secret service	commander-in-chief's guard	4
+united states secret service	american revolutionary war	4
+united states secret service	secret service codename	4
+united states marshals service	federal bureau of investigation	4
+united states marshals service	defense criminal investigative service	4
+united states marshals service	drug enforcement administration	4
+united states marshals service	naval criminal investigative service	4
+united states marshals service	u.s. immigration and customs enforcement	4
+united states marshals service	united states marine corps criminal investigation division	4
+united states marshals service	u.s. customs and border protection	4
+united states marshals service	u.s. army criminal investigation command	4
+united states marshals service	federal air marshal service	4
+united states marshals service	u.s. air force office of special investigations	4
+united states marshals service	u.s. diplomatic security service	4
+united states marshals service	coast guard investigative service	4
+united states marshals service	bureau of alcohol, tobacco, firearms and explosives	4
+united states marshals service	u.s. postal inspection service	4
+united states marshals service	u.s. secret service	4
+u.s. immigration and customs enforcement	asylum shopping	4
+u.s. immigration and customs enforcement	diplomatic security service	4
+u.s. immigration and customs enforcement	drug enforcement administration	4
+u.s. immigration and customs enforcement	federal air marshal service	4
+u.s. immigration and customs enforcement	federal bureau of investigation	4
+u.s. immigration and customs enforcement	federal crime	4
+u.s. immigration and customs enforcement	federal protective service (united states)	4
+u.s. immigration and customs enforcement	illegal drug trade in the united states	4
+u.s. immigration and customs enforcement	office of air and marine	4
+u.s. immigration and customs enforcement	operation endgame	4
+u.s. immigration and customs enforcement	operation front line	4
+u.s. immigration and customs enforcement	operation protect our children	4
+u.s. immigration and customs enforcement	operation tangled web	4
+u.s. immigration and customs enforcement	shadow wolves	4
+u.s. immigration and customs enforcement	title 19 of the code of federal regulations	4
+u.s. immigration and customs enforcement	united states border patrol	4
+u.s. immigration and customs enforcement	u.s. customs and border protection	4
+u.s. immigration and customs enforcement	united states citizenship and immigration services	4
+u.s. immigration and customs enforcement	u.s. marshals service	4
+u.s. immigration and customs enforcement	u.s. postal inspection service	4
+u.s. immigration and customs enforcement	u.s. secret service	4
+u.s. immigration and customs enforcement	university of farmington	4
+u.s. immigration and customs enforcement	university of northern new jersey	4
+u.s. immigration and customs enforcement	jaime zapata (u.s. agent)	4
+u.s. immigration and customs enforcement	australian border force	4
+u.s. immigration and customs enforcement	canada border services agency	4
+u.s. immigration and customs enforcement	immigration enforcement	4
+u.s. immigration and customs enforcement	customs surveillance service	4
+u.s. immigration and customs enforcement	european border and coast guard agency	4
+u.s. immigration and customs enforcement	federal migration service	4
+drug enforcement administration	title 21 of the code of federal regulations	4
+drug enforcement administration	departamento administrativo de seguridad	4
+drug enforcement administration	diplomatic security service	4
+drug enforcement administration	federal bureau of investigation	4
+drug enforcement administration	main directorate for drugs control	4
+drug enforcement administration	federal drug control service of russia	4
+drug enforcement administration	immigration and customs enforcement	4
+drug enforcement administration	operation panama express	4
+drug enforcement administration	regulation of therapeutic goods in the united states	4
+drug enforcement administration	u.s. customs and border protection	4
+drug enforcement administration	dea purple heart award	4
+bureau of alcohol, tobacco, firearms and explosives	title 27 of the code of federal regulations	4
+bureau of alcohol, tobacco, firearms and explosives	atf gunwalking scandal	4
+bureau of alcohol, tobacco, firearms and explosives	center for intelligence and security studies	4
+bureau of alcohol, tobacco, firearms and explosives	diplomatic security service	4
+bureau of alcohol, tobacco, firearms and explosives	drug enforcement administration	4
+bureau of alcohol, tobacco, firearms and explosives	immigration and customs enforcement	4
+u.s. customs and border protection	canada border services agency	4
+u.s. customs and border protection	diplomatic security service	4
+u.s. customs and border protection	electronic system for travel authorization	4
+u.s. customs and border protection	harmonized tariff schedule for the united states	4
+u.s. customs and border protection	port security	4
+u.s. customs and border protection	sbinet	4
+u.s. customs and border protection	secure border initiative	4
+u.s. customs and border protection	supply chain security	4
+u.s. customs and border protection	title 19 of the code of federal regulations	4
+u.s. customs and border protection	u.s. coast guard	4
+u.s. customs and border protection	u.s. marshals service	4
+u.s. customs and border protection	u.s. secret service	4
+u.s. customs and border protection	u.s. citizenship and immigration services	4
+u.s. customs and border protection	united states border preclearance	4
+u.s. customs and border protection	united states border patrol interior checkpoints	4
+u.s. customs and border protection	united states visitor and immigrant status indicator technology	4
+law enforcement in the united states	police ranks of the united states	4
+law enforcement in the united states	police uniforms in the united states	4
+law enforcement in the united states	police academy	4
+law enforcement in the united states	crime in the united states	4
+law enforcement in the united states	incarceration in the united states	4
+law enforcement in the united states	terrorism in the united states	4
+law enforcement in the united states	police	4
+health insurance	ansi 834 enrollment implementation format	3
+health insurance	economic capital	3
+health insurance	health administration	3
+health insurance	health advocate	3
+health insurance	health system	3
+health insurance	health care reform	3
+health insurance	health crisis	3
+health insurance	health economics	3
+health insurance	health insurance marketplace	3
+health insurance	health insurance mandate	3
+health insurance	hospital accreditation	3
+health insurance	international healthcare accreditation	3
+health insurance	philosophy of healthcare	3
+health insurance	prescription analytics	3
+health insurance	protectseniors.org	3
+health insurance	public health	3
+health insurance	quality-adjusted life year	3
+health insurance	self-funded health care	3
+health insurance	single-payer healthcare	3
+health insurance	social security	3
+health insurance	welfare	3
+health insurance	the hospital uninsured patient discount act (illinois)	3
+health insurance	universal declaration of human rights	3
+h. h. holmes	insurable interest	3
+h. h. holmes	insurance fraud	3
+health insurance in the united states	health care reform	3
+health insurance in the united states	healthcare reform in the united states	3
+health insurance in the united states	health insurance costs in the united states	3
+health insurance in the united states	health insurance coverage in the united states	3
+health insurance in the united states	massachusetts health care reform	3
+health insurance in the united states	medicare rights center	3
+health insurance in the united states	medicaid estate recovery	3
+health insurance in the united states	physicians for a national health program	3
+health insurance in the united states	publicly funded health care	3
+health insurance in the united states	rand health insurance experiment	3
+health insurance in the united states	sicko	3
+health insurance in the united states	single-payer healthcare	3
+health insurance in the united states	united states national health care act	3
+health insurance in the united states	health economics	3
+health insurance in the united states	national health insurance	3
+health insurance in the united states	public health	3
+health insurance in the united states	universal health care	3
+health insurance in the united states	welfare	3
+national health insurance	health care compared	4
+national health insurance	health care politics	4
+national health insurance	publicly funded health care	4
+national health insurance	single-payer health care	4
+national health insurance	universal health care	4
+health economics	health administration	4
+health economics	healthcare compared	4
+health economics	healthcare politics	4
+health economics	health consumerism	4
+health economics	health crisis	4
+health economics	health equity	4
+health economics	health insurance	4
+health economics	health policy analysis	4
+health economics	journal of health care for the poor and underserved	4
+health economics	medical debt	4
+health economics	pharmacoeconomics	4
+health economics	pharmacoepidemiology	4
+health economics	philosophy of healthcare	4
+health economics	prescription costs	4
+health economics	priority-setting in global health	4
+health economics	public health	4
+welfare	basic income	4
+welfare	bet tzedek legal services – the house of justice	4
+welfare	cloward–piven strategy	4
+welfare	commission on social welfare	4
+welfare	human poverty index	4
+welfare	lerman ratio	4
+welfare	poverty reduction	4
+welfare	right to an adequate standard of living	4
+welfare	right to social security	4
+welfare	social democracy	4
+welfare	social liberalism	4
+welfare	unemployment benefits	4
+welfare	welfare's effect on poverty	4
+welfare	welfare reform	4
+welfare	welfare trap	4
+welfare	workfare	4
+united states national health care act	health care reform	4
+united states national health care act	health care reform in the united states	4
+united states national health care act	healthcare-now!	4
+united states national health care act	healthy americans act	4
+united states national health care act	healthcare rationing in the united states	4
+united states national health care act	medicare (united states)	4
+united states national health care act	public health insurance option	4
+united states national health care act	canadian and american health care systems compared	4
+united states national health care act	health systems by country	4
+single-payer healthcare	all-payer rate setting	4
+single-payer healthcare	health care reform debate in the united states	4
+single-payer healthcare	health system	4
+single-payer healthcare	national health insurance	4
+single-payer healthcare	public health insurance option	4
+publicly funded health care	health care compared	4
+publicly funded health care	national health insurance	4
+publicly funded health care	public opinion on health care reform in the united states	4
+publicly funded health care	single-payer health care	4
+publicly funded health care	socialized medicine	4
+publicly funded health care	social insurance	4
+publicly funded health care	universal health care	4
+publicly funded health care	national health service	4
+publicly funded health care	united kingdom	4
+sicko	2007 in film	4
+sicko	comparison of the health care systems in canada and the united states	4
+sicko	health care reform in the united states	4
+sicko	national health insurance	4
+sicko	national physicians alliance	4
+sicko	nordic model	4
+physicians for a national health program	health care reform	4
+physicians for a national health program	national physicians alliance	4
+physicians for a national health program	physicians' council for responsible reform	4
+physicians for a national health program	united states national health care act	4
+physicians for a national health program	universal health care	4
+medicare rights center	health advocacy	4
+medicare rights center	medicare (united states)	4
+health insurance coverage in the united states	health care reform in the united states	4
+health insurance coverage in the united states	health insurance	4
+health insurance coverage in the united states	health insurance in the united states	4
+health insurance coverage in the united states	single-payer health care	4
+health insurance coverage in the united states	universal health care	4
+health insurance coverage in the united states	patient protection and affordable care act	4
+health insurance costs in the united states	health care	4
+health insurance costs in the united states	health care politics	4
+health insurance costs in the united states	health care reform	4
+health insurance costs in the united states	health economics	4
+health insurance costs in the united states	health insurance	4
+health insurance costs in the united states	health insurance in the united states	4
+health insurance costs in the united states	health insurance exchange	4
+health insurance costs in the united states	health insurance mandate	4
+health insurance costs in the united states	health maintenance organization	4
+health insurance costs in the united states	insurance in the united states	4
+healthcare reform in the united states	comparison of the healthcare systems in canada and the united states	4
+healthcare reform in the united states	health care reform	4
+healthcare reform in the united states	health care reforms proposed during the obama administration	4
+healthcare reform in the united states	health economics	4
+healthcare reform in the united states	health policy	4
+healthcare reform in the united states	mccarran–ferguson act	4
+healthcare reform in the united states	medicare sustainable growth rate	4
+health care reform	health care	4
+health care reform	healthcare system	4
+health care reform	health care provider	4
+health care reform	health center	4
+health care reform	clinic	4
+health care reform	hospital	4
+health care reform	health care politics	4
+health care reform	medical education	4
+health care reform	medicine	4
+health care reform	doctor's visit	4
+health care reform	nursing	4
+health care reform	philosophy of healthcare	4
+health care reform	universal health care	4
+health care reform	social service	4
+health care reform	social determinants of health	4
+health care reform	family medicine	4
+health care reform	preventive medicine	4
+health care reform	social medicine	4
+health care reform	health policy	4
+health care reform	health insurance	4
+health care reform	insurance	4
+health care reform	social health insurance	4
+health care reform	community health service	4
+health care reform	direct primary care	4
+health care reform	school health services	4
+health care reform	military medicine	4
+health care reform	occupational safety and health	4
+health care reform	unnecessary health care	4
+health care reform	health care compared	4
+health care reform	health care in the united states	4
+health care reform	health care reform in the united states	4
+health care reform	healthcare-now!	4
+health care reform	health-care reform in china	4
+health care reform	history of the national health service	4
+health care reform	history of the national health service (england)	4
+health care reform	journal of health care for the poor and underserved	4
+health care reform	kaiser family foundation	4
+health care reform	massachusetts health care reform	4
+health care reform	matthew effect	4
+health care reform	medicare rights center	4
+health care reform	national health insurance	4
+health care reform	national physicians alliance	4
+health care reform	progressive democrats of america	4
+health care reform	puerto rico health reform	4
+health care reform	shoutamerica	4
+health care reform	single-payer health care	4
+health care reform	united states national health care act	4
+health care reform	universal health care foundation of connecticut	4
+universal declaration of human rights	history of human rights	4
+universal declaration of human rights	yogyakarta principles	4
+universal declaration of human rights	cairo declaration on human rights in islam	4
+universal declaration of human rights	vienna declaration and programme of action	4
+universal declaration of human rights	united nations millennium declaration	4
+universal declaration of human rights	fourth geneva convention	4
+universal declaration of human rights	european convention on human rights	4
+universal declaration of human rights	convention relating to the status of refugees	4
+universal declaration of human rights	convention on the elimination of all forms of racial discrimination	4
+universal declaration of human rights	international covenant on civil and political rights	4
+universal declaration of human rights	international covenant on economic, social and cultural rights	4
+universal declaration of human rights	convention on the elimination of all forms of discrimination against women	4
+universal declaration of human rights	convention on the rights of the child	4
+universal declaration of human rights	charter of fundamental rights of the european union	4
+universal declaration of human rights	convention on the rights of persons with disabilities	4
+universal declaration of human rights	jacques maritain	4
+universal declaration of human rights	tommy douglas	4
+universal declaration of human rights	john sankey, 1st viscount sankey	4
+universal declaration of human rights	slavery in the united states	4
+universal declaration of human rights	slavery in russia	4
+universal declaration of human rights	slavery in international law	4
+universal declaration of human rights	slave trade act	4
+universal declaration of human rights	human rights in china	4
+universal declaration of human rights	lgbt rights at the united nations	4
+universal declaration of human rights	command responsibility	4
+universal declaration of human rights	moral universalism	4
+universal declaration of human rights	declaration on great apes	4
+universal declaration of human rights	hominidae	4
+universal declaration of human rights	united nations prize in the field of human rights	4
+universal declaration of human rights	consent of the governed	4
+universal declaration of human rights	paris peace conference, 1919	4
+universal declaration of human rights	the farewell sermon	4
+universal declaration of human rights	common era	4
+universal declaration of human rights	youth for human rights international	4
+universal declaration of human rights	monica ross	4
+insurable interest	insurability	4
+insurable interest	liability insurance	4
+insurable interest	life insurance	4
+insurable interest	property insurance	4
+quality-adjusted life year	case mix index	4
+quality-adjusted life year	cost-effectiveness analysis registry	4
+quality-adjusted life year	cost-utility analysis	4
+quality-adjusted life year	disability-adjusted life year	4
+quality-adjusted life year	incremental cost-effectiveness ratio	4
+quality-adjusted life year	quality of life	4
+quality-adjusted life year	mansa	4
+quality-adjusted life year	life quality index	4
+philosophy of healthcare	ethical problems using children in clinical trials	4
+philosophy of healthcare	ethics of circumcision	4
+philosophy of healthcare	catholic church and health care	4
+philosophy of healthcare	philosophy of medicine	4
+international healthcare accreditation	accreditation	4
+international healthcare accreditation	hospital accreditation	4
+international healthcare accreditation	evidence-based medicine	4
+international healthcare accreditation	health tourism provider	4
+international healthcare accreditation	health insurance	4
+international healthcare accreditation	hospital	4
+international healthcare accreditation	medical tourism	4
+international healthcare accreditation	patient safety	4
+international healthcare accreditation	patient safety organization	4
+international healthcare accreditation	medical ethics	4
+international healthcare accreditation	international sos	4
+international healthcare accreditation	international organization for standardization	4
+international healthcare accreditation	united kingdom accreditation forum	4
+hospital accreditation	accreditation	4
+hospital accreditation	international healthcare accreditation	4
+hospital accreditation	health insurance	4
+hospital accreditation	hospitals	4
+hospital accreditation	evidence-based medicine	4
+hospital accreditation	patient safety	4
+hospital accreditation	medical ethics	4
+hospital accreditation	united kingdom accreditation forum	4
+health insurance mandate	individual shared responsibility provision	4
+health insurance marketplace	health care reform in the united states	4
+health insurance marketplace	health system	4
+health insurance marketplace	universal health coverage by country	4
+health crisis	crisis theory	4
+health crisis	disease mongering	4
+health crisis	health administration	4
+health crisis	health care	4
+health crisis	health policy	4
+health crisis	medicalization	4
+health crisis	primary health care	4
+health crisis	routine health outcomes measurement	4
+health crisis	thalidomide	4
+health system	acronyms in healthcare	4
+health system	catholic church and health care	4
+health system	community health	4
+health system	comparison of the health care systems in canada and the united states	4
+health system	consumer-driven health care	4
+health system	cultural competence in health care	4
+health system	global health	4
+health system	health administration	4
+health system	health care	4
+health system	health care provider	4
+health system	health care reform	4
+health system	health crisis	4
+health system	health economics	4
+health system	health human resources	4
+health system	health insurance	4
+health system	health policy	4
+health system	health services research	4
+health system	healthy city	4
+health system	medicine	4
+health system	national health insurance	4
+health system	occupational safety and health	4
+health system	philosophy of healthcare	4
+health system	primary care	4
+health system	primary health care	4
+health system	public health	4
+health system	publicly funded health care	4
+health system	single-payer health care	4
+health system	social determinants of health	4
+health system	socialized medicine	4
+health system	timeline of global health	4
+health system	two-tier health care	4
+health system	universal health care	4
+health administration	master of health administration	4
+health administration	nosokinetics	4
+ansi 834 enrollment implementation format	x12 document list	4
